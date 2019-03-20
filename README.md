@@ -8,4 +8,4 @@ ID | Name | Difficult | Similar Problem | SP2| SP3| SP4 | SP5 | SP6| SP7| Remark
 303| Range Sum Query - Immutable | * |   |   |  |   |   |  |   |   |  
 53 | Maximum Subarray | ** | 121 |  |   |   |   |    |   |    | 
 198 | House Robber | *** | 213 | 309 | 740 | 790 | 801 |    |   |  I: O(n), S = O(3n), T = O(3n)  | 
-139 | Word Break | *** | 140 | 818 |   |   |   |    |   |  I: O(n), S = O(n), T = O(n^2)  | 
+
