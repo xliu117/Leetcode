@@ -1,7 +1,9 @@
 # Leetcode
-3/19/2019
-today's topic: DP
-	
+##3/19/2019
+##today's topic: DP
+| 表格      | 第一列     | 第二列     |
+| ---------- | :-----------:  | :-----------: |
+| 第一行     | 第一列     | 第二列     |
 Id	Name	Difficulty	Similar Problems	Comments	Youtube	Bili	Post					
 70	Climbing Stairs	★	746							I: O(n), S = O(n), T = O(n)		
 303	Range Sum Query - Immutable	★										
