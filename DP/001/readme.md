@@ -1,5 +1,5 @@
 
-# Climbing Stairs #70
+# Climbing Stairs LC70
 * Thoughts:
 
 
