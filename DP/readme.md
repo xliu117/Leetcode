@@ -1,7 +1,7 @@
 # [Leetcode](https://leetcode.com/problemset/all/) 
-* 3/19/2019 Today's topic: DP
+* 3/19/2019 Today's topic: Dynamic Programming
 
- NO |ID | Name | Difficult | Similar Problem | SP2| SP3| SP4 | SP5 | SP6| SP7| Remark1 
+ NO |ID | Name | Difficulty | Similar Problem | SP2| SP3| SP4 | SP5 | SP6| SP7| Remark1 
 --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- 
 001|[70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs |★ | [746](https://leetcode.com/problems/min-cost-climbing-stairs/) |  |   |   |   |    |   | 
 002|[303](https://leetcode.com/problems/range-sum-query-immutable/)| Range Sum Query - Immutable | ★ |   |   |   |    |   |    |    
