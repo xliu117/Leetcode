@@ -7,7 +7,7 @@
 002|[303](https://leetcode.com/problems/range-sum-query-immutable/)| Range Sum Query - Immutable | ★ |   |   |   |    |   |    |    
 003|[53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | ★★ | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |   |   |   |    |   |    | 
 004|[198](https://leetcode.com/problems/house-robber/) | House Robber | ★★★ | [213](https://leetcode.com/problems/house-robber-ii/) | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 740 | 790 | 801 |    |   |  
-[005]| [139](https://leetcode.com/problems/word-break/) |	Word Break	|★★★	|[140](https://leetcode.com/problems/word-break-ii/)|	818| | | | | |						
+[005]| [139](https://leetcode.com/problems/word-break/) |	Word Break	|★★★	|[140](https://leetcode.com/problems/word-break-ii/)|	[818](https://leetcode.com/problems/race-car/)| | | | | |						
 006|300 |	Longest Increasing Subsequence	|★★★	|673| | | | | | |							
 007|72	|Edit Distance	|★★★|	10|	44	|97|	115|	583|	712|	|
 008|322|	Coin Change|	★★★	|377|	416	|494|	|	|	|	|	
