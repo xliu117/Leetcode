@@ -1,7 +1,7 @@
 # [Leetcode](https://leetcode.com/problemset/all/) 
  [huahua leetcode](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit?ts=5c91956a#gid=126913158)
 * Advanced
-* Search 3/25/2019 Monday 5
+* [Search](https://github.com/xliu117/Leetcode/tree/master/Search) 3/25/2019 Monday 5
 * [DP](https://github.com/xliu117/Leetcode/tree/master/DP) 3/26/2019 Tuesday 5
 * Graph 3/27/2019 Wednesday 5
 * Tree 3/28/2019 Thursday 5
