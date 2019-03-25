@@ -1,6 +1,6 @@
 
-Id |	Name	| Difficulty |	Similar Problems	|	    |     |    |    ||					|Comments
---- |  ---  |     ---    |       ---          | --- | --- | ---| ---|---| ---| ---
+Id |	Name	| Difficulty |	Similar Problems	|	    |     |    |    ||					Comments
+--- |  ---  |     ---    |       ---          | --- | --- | ---| ---|---| ---
 17	|Letter Combinations of a Phone Number|	★★|	39|	40	|77|	78	|90	|216	|	Combination
 46	Permutations	★★	47	784	943	996				Permutation
 22	Generate Parentheses	★★★	301							DFS
