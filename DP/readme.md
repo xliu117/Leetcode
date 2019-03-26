@@ -9,7 +9,7 @@
 004|[198](https://leetcode.com/problems/house-robber/) | House Robber | ★★★ | [213](https://leetcode.com/problems/house-robber-ii/) | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 740 | 790 | 801 |    |   |  
 [005]| [139](https://leetcode.com/problems/word-break/) |	Word Break	|★★★	|[140](https://leetcode.com/problems/word-break-ii/)|	[818](https://leetcode.com/problems/race-car/)| | | | | |						
 006|[300](https://leetcode.com/problems/longest-increasing-subsequence/) |	Longest Increasing Subsequence	|★★★	|673| | | | | | |							
-007|72	|Edit Distance	|★★★|	10|	44	|97|	115|	583|	712|	|
+007|[72](https://leetcode.com/problems/edit-distance/)	|Edit Distance	|★★★|	10|	44	|97|	115|	583|	712|	|
 008|322|	Coin Change|	★★★	|377|	416	|494|	|	|	|	|	
 009|813|	Largest Sum of Averages	|★★★| | | | | | | |						
 010|312|	Burst Balloons	|★★★★|	664 | ||||||	 				
