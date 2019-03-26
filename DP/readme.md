@@ -11,7 +11,7 @@
 006|[300](https://leetcode.com/problems/longest-increasing-subsequence/) |	Longest Increasing Subsequence	|★★★	|673| | | | | | |							
 007|[72](https://leetcode.com/problems/edit-distance/)	|Edit Distance	|★★★|	10|	44	|97|	115|	583|	712|	|
 008|[322](https://leetcode.com/problems/coin-change/)|	Coin Change|	★★★	|377|	416	|494|	|	|	|	|	
-009|813|	Largest Sum of Averages	|★★★| | | | | | | |						
+009|[813](https://leetcode.com/problems/largest-sum-of-averages/)|	Largest Sum of Averages	|★★★| | | | | | | |						
 010|312|	Burst Balloons	|★★★★|	664 | ||||||	 				
 011|741|	Cherry Pickup	|★★★★|	|||||||							
 012|546|	Remove Boxes	|★★★★★	||||||||							
