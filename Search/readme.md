@@ -8,4 +8,4 @@ Id |	Name	| Difficulty |	Similar Problems	|	Sp2    |   Sp3  |  Sp4  |   Sp5 |Sp6
 [79](https://leetcode.com/problems/word-search/)	|Word Search	|★★★	|212		||||||					DFS
 [127](https://leetcode.com/problems/word-ladder/)	|Word Ladder|	★★★★|	126	|752	|||||					BFS
 [542](https://leetcode.com/problems/01-matrix/)|	01 Matrix	|★★★|	675|	934	|||||					BFS
-698	|Partition to K Equal Sum Subsets|	★★★	|93	|131	|241	|282|	842		||	Partition
+[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)	|Partition to K Equal Sum Subsets|	★★★	|93	|131	|241	|282|	842		||	Partition
