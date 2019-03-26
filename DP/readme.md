@@ -13,7 +13,7 @@
 008|[322](https://leetcode.com/problems/coin-change/)|	Coin Change|	★★★	|377|	416	|494|	|	|	|	|	
 009|[813](https://leetcode.com/problems/largest-sum-of-averages/)|	Largest Sum of Averages	|★★★| | | | | | | |						
 010|[312](https://leetcode.com/problems/burst-balloons/)|	Burst Balloons	|★★★★|	664 | ||||||	 				
-011|741|	Cherry Pickup	|★★★★|	|||||||							
+011|[741](https://leetcode.com/problems/cherry-pickup/)|	Cherry Pickup	|★★★★|	|||||||							
 012|546|	Remove Boxes	|★★★★★	||||||||							
 013|943|	Find the Shortest Superstring	|★★★★	|980|	996||||||			
 014|62|	Unique Paths	|★★|	63|	64|	120|	174|	931|||		
