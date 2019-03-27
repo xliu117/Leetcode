@@ -1,9 +1,9 @@
 
 Id	| Name |	Difficulty |	Similar Problems	| | | | 						Comments
 --- | --- | --- | --- | ---| --- | --- | ---
-133	Clone Graph	★★	138							queue + hashtable
-200	Number of Islands	★★	547	695	733	827				grid + connected components
-841	Keys and Rooms	★★								connected components
+133	| Clone Graph	| ★★	| 138	| |||						queue + hashtable
+200 |	Number of Islands	|★★	|547|	695|	733	|827	|			grid + connected components
+841	| Keys and Rooms	|★★			|||||					connected components
 207	Course Schedule	★★★	210	802						topology sorting
 399	Evaluate Division	★★★	839	952	990	721				union find
 785	Is Graph Bipartite?	★★★								bipartition
