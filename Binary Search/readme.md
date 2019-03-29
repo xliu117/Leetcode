@@ -1,4 +1,4 @@
-
+# Binary Search
 Id	|Name	|Difficulty	|Similar Problems|||||							Comments
 ---|---|---|---|---|---|---|---|---
 35	|Search Insert Position	|★★	|34|	704|	981	|		| |		upper_bound
