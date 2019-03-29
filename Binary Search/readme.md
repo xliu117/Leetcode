@@ -1,5 +1,6 @@
 
 Id	|Name	|Difficulty	|Similar Problems|||||							Comments
+---|---|---|---|---|---|---|---|---
 35	|Search Insert Position	|★★	|34|	704|	981	|		| |		upper_bound
 33	|Search in Rotated Sorted Array	|★★★|	81|	153	|154|	162	|852	|		rotated / peak
 69	|Sqrt(x)|	★★★		||||||						upper_bound
