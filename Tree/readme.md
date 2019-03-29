@@ -1,6 +1,6 @@
 
-Id	| Name | 	Difficulty	| Similar Problems| 	| |   |		||				Comments
---- | --- | --- | --- | --- | ---| ---| ---
+Id	| Name | 	Difficulty	| Similar Problems| 	 |     |   |		|   |				Comments
+--- | ---  | ---           | ---           | --- | ---| ---| ---|---|---
 94	|Binary Tree Inorder Traversal|	★	|589|	590		|		||||		traversal
 100|	Same Tree	|★★	|101	|104	|110	|111	|572	|965	|	
 102	|Binary Tree Level Order Traversal|	★★	|107	|429|	872	|987	|||			collecting nodes
