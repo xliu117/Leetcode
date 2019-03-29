@@ -1,7 +1,7 @@
 # Binary Search
 Id	|Name	|Difficulty	|Similar Problems|||||							Comments
 ---|---|---|---|---|---|---|---|---
-35	|Search Insert Position	|★★	|34|	704|	981	|		| |		upper_bound
+[35](https://leetcode.com/problems/search-insert-position/)	|Search Insert Position	|★★	|34|	704|	981	|		| |		upper_bound
 33	|Search in Rotated Sorted Array	|★★★|	81|	153	|154|	162	|852	|		rotated / peak
 69	|Sqrt(x)|	★★★		||||||						upper_bound
 74	|Search a 2D Matrix|	★★★	||||||							treat 2d as 1d
