@@ -1,7 +1,7 @@
 
 Id	| Name | 	Difficulty	| Similar Problems| 	 |     |   |		|   |				Comments
 --- | ---  | ---           | ---           | --- | ---| ---| ---|---|---
-[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Binary Tree Inorder Traversal|	★	|589|	590		|		||||		traversal
+[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Binary Tree Inorder Traversal|	★	|[589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|	590		|		||||		traversal
 100|	Same Tree	|★★	|101	|104	|110	|111	|572	|965	|	
 102	|Binary Tree Level Order Traversal|	★★	|107	|429|	872	|987	|||			collecting nodes
 814|	Binary Tree Pruning|	★★	|669	||||||						
