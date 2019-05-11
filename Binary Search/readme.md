@@ -2,7 +2,7 @@
 Id	|Name	|Difficulty	|Similar Problems|||||							Comments
 ---|---|---|---|---|---|---|---|---
 [35](https://leetcode.com/problems/search-insert-position/)	|Search Insert Position	|★★	|34|	704|	981	|		| |		upper_bound
-[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)	|Search in Rotated Sorted Array	|★★★|	81|	153	|154|	162	|852	|		rotated / peak
+[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)	|Search in Rotated Sorted Array	|★★★|	81|	[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)	|154|	162	|852	|		rotated / peak
 69	|Sqrt(x)|	★★★		||||||						upper_bound
 [74](https://leetcode.com/problems/search-a-2d-matrix/)	|Search a 2D Matrix|	★★★	||||||							treat 2d as 1d
 378	|Kth Smallest Element in a Sorted Matrix	|★★★|	668	||||||						kth + matrix
