@@ -8,7 +8,7 @@
 003|[53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | ★★ | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   |   |   |   |    |   |    | 
 004|[198](https://leetcode.com/problems/house-robber/) | House Robber | ★★★ | [213](https://leetcode.com/problems/house-robber-ii/) | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [740](https://leetcode.com/problems/delete-and-earn/) | [790](https://leetcode.com/problems/domino-and-tromino-tiling/) | [801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) |    |   |  
 [005]| [139](https://leetcode.com/problems/word-break/) |	Word Break	|★★★	|[140](https://leetcode.com/problems/word-break-ii/)|	[818](https://leetcode.com/problems/race-car/)| | | | | |						
-006|[300](https://leetcode.com/problems/longest-increasing-subsequence/) |	Longest Increasing Subsequence	|★★★	|673| | | | | | |							
+006|[300](https://leetcode.com/problems/longest-increasing-subsequence/) |	Longest Increasing Subsequence	|★★★	|[673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)| | | | | | |							
 007|[72](https://leetcode.com/problems/edit-distance/)	|Edit Distance	|★★★|	10|	44	|97|	115|	583|	712|	|
 008|[322](https://leetcode.com/problems/coin-change/)|	Coin Change|	★★★	|377|	416	|494|	|	|	|	|	
 009|[813](https://leetcode.com/problems/largest-sum-of-averages/)|	Largest Sum of Averages	|★★★| | | | | | | |						
