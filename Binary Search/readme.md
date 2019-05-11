@@ -5,7 +5,7 @@ Id	|Name	|Difficulty	|Similar Problems|||||							Comments
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)	|Search in Rotated Sorted Array	|★★★|	81|	[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)	|154|	162	|852	|		rotated / peak
 69	|Sqrt(x)|	★★★		||||||						upper_bound
 [74](https://leetcode.com/problems/search-a-2d-matrix/)	|Search a 2D Matrix|	★★★	||||||							treat 2d as 1d
-378	|Kth Smallest Element in a Sorted Matrix	|★★★|	668	||||||						kth + matrix
+[378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)	|Kth Smallest Element in a Sorted Matrix	|★★★|	668	||||||						kth + matrix
 778	|Swim in Rising Water	|★★★	|174	|875	||||					guess ans and check
 4	|Median of Two Sorted Arrays	|★★★★	||||||							
 719	|Find K-th Smallest Pair Distance	|★★★★|	786		|||||					kth + two pointers
