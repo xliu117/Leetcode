@@ -1,7 +1,7 @@
 
 Id |	Name	| Difficulty |	Similar Problems	|	Sp2    |   Sp3  |  Sp4  |   Sp5 |Sp6 |					Comments
 --- |  ---  |     ---    |       ---          | --- | --- | ---| ---|---| ---
-[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)	|Letter Combinations of a Phone Number|	★★|	39|	40	|77|	78	|90	|216	|	Combination
+[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)	|Letter Combinations of a Phone Number|	★★|	39|	40	|77|	[78](https://leetcode.com/problems/subsets/)|[90](https://leetcode.com/problems/subsets-ii/)|216	|	Combination
 [46](https://leetcode.com/problems/permutations/)	| Permutations	| ★★| 	47	| 784| 	943	| 996		| ||		Permutation
 [22](https://leetcode.com/problems/generate-parentheses/)	|Generate Parentheses	|★★★	|301	| | ||||						DFS
 [37](https://leetcode.com/problems/sudoku-solver/)	|Sudoku Solver	|★★★	|51	|52		| ||||				DFS
