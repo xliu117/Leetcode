@@ -1,4 +1,6 @@
 //double recursion
+//Time complexity: O(n^2)
+//Space complexity: O(n)
 class Solution {
     public int pathSum(TreeNode root, int sum) {
         if(root == null) return 0;
