@@ -9,7 +9,7 @@ Id	| Name | 	Difficulty	| Similar Problems| 	 |     |   |		|   |				Comments
 [102](https://leetcode.com/problems/binary-tree-level-order-traversal/)	|Binary Tree Level Order Traversal|	★★	|[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)	|[429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|	872	|987	|||			collecting nodes
 [814](https://leetcode.com/problems/binary-tree-pruning/)|	Binary Tree Pruning|	★★	|669	||||||						
 [112](https://leetcode.com/problems/path-sum/)	|Path Sum	|★★★	|[113](https://leetcode.com/problems/path-sum-ii/)|	[437](https://leetcode.com/problems/path-sum-iii/)		|[560](https://leetcode.com/problems/subarray-sum-equals-k/)||||				
-[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)	|Binary Tree Maximum Path Sum|	★★★|	543	|687	|||||					Use both children, return one
+[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)	|Binary Tree Maximum Path Sum|	★★★|	[543](https://leetcode.com/problems/diameter-of-binary-tree/)	|687	|||||					Use both children, return one
 129	|Sum Root to Leaf Numbers	|★★★|	257			||||||				
 236	|Lowest Common Ancestor of a Binary Tree	|★★★|	235			||||||				
 297	|Serialize and Deserialize Binary Tree	|★★★	|449|||||||							
