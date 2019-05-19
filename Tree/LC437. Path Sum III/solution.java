@@ -1,4 +1,4 @@
-//double recursion
+//Solution1: double recursion
 //Time complexity: O(n^2)
 //Space complexity: O(n)
 class Solution {
@@ -13,3 +13,8 @@ class Solution {
         return (root.val == sum ? 1 : 0) + numberofPaths(root.left, sum - root.val) + numberofPaths(root.right, sum - root.val);
     }
 }
+
+
+//Solution2:Running Prefix sum
+//Idea similar to LC560
+
