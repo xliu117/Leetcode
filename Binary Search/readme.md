@@ -8,4 +8,4 @@ Id	|Name	|Difficulty	|Similar Problems|||||							Comments
 [378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)	|Kth Smallest Element in a Sorted Matrix	|★★★|	668	||||||						kth + matrix
 [778](https://leetcode.com/problems/swim-in-rising-water/)	|Swim in Rising Water	|★★★	|[174](https://leetcode.com/problems/dungeon-game/)	|[875](	https://leetcode.com/problems/koko-eating-bananas/)||||					guess ans and check
 [4](https://leetcode.com/problems/median-of-two-sorted-arrays/)	|Median of Two Sorted Arrays	|★★★★	||||||							
-719	|Find K-th Smallest Pair Distance	|★★★★|	786		|||||					kth + two pointers
+[719](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)	|Find K-th Smallest Pair Distance	|★★★★|	786		|||||					kth + two pointers
