@@ -1,4 +1,9 @@
-/***class Solution {
+/***
+//dijkstra + heap
+//Let's keep a priority queue of which square we can walk in next. We always walk in the smallest one that is 4-directionally adjacent to ones we've visited.
+
+//When we reach the target, the largest number we've visited so far is the answer.
+class Solution {
     public int swimInWater(int[][] grid) {
         int N = grid.length;
         Set<Integer> seen = new HashSet();
