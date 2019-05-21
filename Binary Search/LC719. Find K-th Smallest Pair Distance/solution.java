@@ -55,7 +55,8 @@ class Solution {
     }
 }*/
 
-//binary search + dp
+//binary search + dp 
+// time: O(nlogn) space:O(1)
 class Solution{
      public int smallestDistancePair(int[] nums, int k) {
          Arrays.sort(nums);
