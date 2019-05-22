@@ -6,7 +6,7 @@ Id	| Name |	Difficulty |	Similar Problems	| | | | 						Comments
 [841](https://leetcode.com/problems/keys-and-rooms/)	| Keys and Rooms	|★★			|||||					connected components
 [207](https://leetcode.com/problems/course-schedule/)	| Course Schedule	| ★★★	| [210](https://leetcode.com/problems/course-schedule-ii/) |	[802](https://leetcode.com/problems/find-eventual-safe-states/)	| |||					topology sorting
 [399](https://leetcode.com/problems/evaluate-division/)	|Evaluate Division	|★★★	|839	|952|	990	|721		|		union find
-[785](https://leetcode.com/problems/is-graph-bipartite/)	|Is Graph Bipartite?	|★★★	|||||							bipartition
+[785](https://leetcode.com/problems/is-graph-bipartite/)	|Is Graph Bipartite?	|★★★	|[886](https://leetcode.com/problems/possible-bipartition/)||||							bipartition
 [684](https://leetcode.com/problems/redundant-connection/)	|Redundant Connection|	★★★★	|685	|787	|||					cycle, union find
 [743](https://leetcode.com/problems/network-delay-time/)|	Network Delay Time	|★★★★|	882	||||						shortest path
 847|	Shortest Path Visiting All Nodes|	★★★★	|815	|864|	924	| |				BFS
