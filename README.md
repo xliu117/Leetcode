@@ -6,7 +6,7 @@
 * [Graph](https://github.com/xliu117/Leetcode/blob/master/Graph/readme.md) 3/27/2019  5 5/9 5
 * [Tree](https://github.com/xliu117/Leetcode/tree/master/Tree) 3/28/2019  5 5/8 5
 * [Binary Search](https://github.com/xliu117/Leetcode/tree/master/Binary%20Search) 3/29/2019 Friday 5
-* BST 3/30/2018 Saturaday 5
+* [BST](https://github.com/xliu117/Leetcode/tree/master/BST) 3/30/2018 Saturaday 5
 * HashTable 3/31/2019 Sunday 5
 * Greedy 4/1/2019 Monday 5
 * List 4/2/2019 Tuesday 5
