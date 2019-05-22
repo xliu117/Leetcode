@@ -33,7 +33,7 @@ class Solution {
         color.put(node, c);
         
         for(int nei:graph[node]){
-            if(!dfs(nei, c^1)){ // ^ (bitwise XOR)
+            if(!dfs(nei, c^1)){ // 1^1 = 0 , 0^1 = 1
                 return false;
             }
         }
