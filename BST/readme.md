@@ -1,6 +1,8 @@
 
-Id	Name	Difficulty	Similar Problems					Comments
-98	Validate Binary Search Tree	★★	530					inorder
+# BST
+Id	|Name	|Difficulty	|Similar Problems|||							Comments
+---|---|---|---|---|---|---|---|---
+98	| Validate Binary Search Tree|	★★	|530	|		| |		inorder
 700	Search in a Binary Search Tree	★★	701					binary search
 230	Kth Smallest Element in a BST	★★★						inorder
 99	Recover Binary Search Tree	★★★						inorder
