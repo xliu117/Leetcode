@@ -7,6 +7,12 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+
+//Two passes. First pass to find the count of the mode, second pass to collect all the modes.
+
+//Time complexity: O(n)
+
+//Space complexity: O(1)
 public class Solution {
     
     public int[] findMode(TreeNode root) {
