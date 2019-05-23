@@ -8,4 +8,4 @@ Id	|Name	|Difficulty	|Similar Problems|||							Comments
 [99](https://leetcode.com/problems/recover-binary-search-tree/)	|Recover Binary Search Tree	|★★★||||						inorder
 [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)	|Convert Sorted Array to Binary Search Tree|	★★★	||||					
 [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)	|Find Mode in Binary Search Tree|	★★★			||||			inorder
-450	|Delete Node in a BST|	★★★★		||||				binary search
+[450](https://leetcode.com/problems/delete-node-in-a-bst/)	|Delete Node in a BST|	★★★★		|[776](https://leetcode.com/problems/split-bst/)|||				binary search
