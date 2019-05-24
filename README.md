@@ -9,7 +9,7 @@
 * [BST](https://github.com/xliu117/Leetcode/tree/master/BST)  
 * HashTable  
 * [Greedy](https://github.com/xliu117/Leetcode/tree/master/Greedy)  
-* List  
+* [List](https://github.com/xliu117/Leetcode/tree/master/List)  
 * Two Pointers  
 * Recursion  
 * Divide and conquer  
