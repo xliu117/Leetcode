@@ -8,5 +8,5 @@ Id	|Name	|Difficulty	|Similar Problems|||							Comments
 [141](https://leetcode.com/problems/linked-list-cycle/)|	Linked List Cycle	|★★	|[142](https://leetcode.com/problems/linked-list-cycle-ii/)||||							fast/slow
 [23](https://leetcode.com/problems/merge-k-sorted-lists/)	|Merge k Sorted Lists|	★★★	|[21](https://leetcode.com/problems/merge-two-sorted-lists/)	||||						priority_queue
 [147](https://leetcode.com/problems/insertion-sort-list/)	|Insertion Sort List	|★★★	||||							insertion sort
-148	|Sort List	|★★★★		||||						merge sort O(1) space
+[148](https://leetcode.com/problems/sort-list/)	|Sort List	|★★★★		||||						merge sort O(1) space
 707|	Design Linked List	|★★★★	||||							
