@@ -4,7 +4,7 @@ Id |	Name	| Difficulty |	Similar Problems	|	Sp2    |   Sp3  |  Sp4  |   Sp5 |Sp6
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)	|Letter Combinations of a Phone Number|	★★|	[39](https://leetcode.com/problems/combination-sum/)|	[40](https://leetcode.com/problems/combination-sum-ii/)	|77|	[78](https://leetcode.com/problems/subsets/)|[90](https://leetcode.com/problems/subsets-ii/)|216	|	Combination
 [46](https://leetcode.com/problems/permutations/)	| Permutations	| ★★| 	[47](https://leetcode.com/problems/permutations-ii/)	| 784| 	943	| 996		| ||		Permutation
 [22](https://leetcode.com/problems/generate-parentheses/)	|Generate Parentheses	|★★★	|[301](https://leetcode.com/problems/remove-invalid-parentheses/)	| | ||||						DFS
-[37](https://leetcode.com/problems/sudoku-solver/)	|Sudoku Solver	|★★★	|[51](https://leetcode.com/problems/n-queens/)	|52		| ||||				DFS
+[37](https://leetcode.com/problems/sudoku-solver/)	|Sudoku Solver	|★★★	|[51](https://leetcode.com/problems/n-queens/)	|[52](https://leetcode.com/problems/n-queens-ii/)		| ||||				DFS
 [79](https://leetcode.com/problems/word-search/)	|Word Search	|★★★	|212		||||||					DFS
 [127](https://leetcode.com/problems/word-ladder/)	|Word Ladder|	★★★★|	126	|752	|||||					BFS
 [542](https://leetcode.com/problems/01-matrix/)|	01 Matrix	|★★★|	675|	934	|||||					BFS
