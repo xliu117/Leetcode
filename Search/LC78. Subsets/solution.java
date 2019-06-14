@@ -1,3 +1,6 @@
+//BackTracking:
+//Time: O(n * 2^n)
+//Space: O(n/2 * 2^n) ~= O(n * 2^n)
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();
@@ -15,8 +18,5 @@ class Solution {
 
         }
 
-    }
-    
-    
-    
+    }  
 }
