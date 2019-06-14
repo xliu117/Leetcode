@@ -16,4 +16,4 @@ For target = 6, return -1.
 注意在nums[mid] == target的时候，说明找到了一个。我们是要找最后一个target，所以要从这个找到的地方开始往后看，看还有没有。所以start = mid。
 
 
-Time complexity:O(logn)
+Time complexity: Binary Search O(logn)
