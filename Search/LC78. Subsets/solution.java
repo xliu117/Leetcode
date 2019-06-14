@@ -22,6 +22,8 @@ class Solution {
 }
 
 //2.
+//Time: O(2^n)
+//Space: O(2^n) 
 public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         result.add(new ArrayList<>());
