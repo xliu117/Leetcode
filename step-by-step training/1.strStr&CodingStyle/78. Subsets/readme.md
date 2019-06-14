@@ -21,7 +21,7 @@ Output:
   []
 ]
 
-Solution:Combination
+Solution: Combination
 =
 
 Time complexity:O(2^n)
