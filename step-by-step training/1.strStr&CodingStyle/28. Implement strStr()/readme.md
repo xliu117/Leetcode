@@ -40,6 +40,10 @@ O(1)
 
 * 2.KMP
 Linear Time
+build table: time: O(m) space:O(m)
+matching traversal: time: O(n) space:O(1)
+overall: time:O(m+n) space: O(m)
+ 
 
 * 3.Rabin-Karp
 //O(m+n)
