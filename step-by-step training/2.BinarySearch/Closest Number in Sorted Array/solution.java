@@ -1,3 +1,5 @@
+//Binary search
+//Time: O(logn)
 class Solution{
     public int closestNumber(int[] A, int target){
             // corner case
