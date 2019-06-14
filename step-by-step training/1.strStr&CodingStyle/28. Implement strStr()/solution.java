@@ -20,7 +20,11 @@ What should we return when needle is an empty string? This is a great question t
 For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
 */
 
-
+//Brute Force
+//idea:
+//scan through string haystack, for each character a, compare if the string needle matches the substring strated at a in haystrack.
+//time complexity:
+//since we need to scan twice(two for-loop), the time complexity is O(n^2).
 class Solution {
     public int strStr(String haystack, String needle) {
         int l1 = haystack.length();
