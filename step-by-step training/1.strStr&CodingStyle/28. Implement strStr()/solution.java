@@ -131,7 +131,7 @@ class Solution{
     }
 }
 
-
+//Better to understand KMP algorithm
 
 class Solution {
   private int[] computeLPS(String str) { // computes Longest Prefix Suffix (LPS) array
