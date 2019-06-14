@@ -1,3 +1,5 @@
+//do not treat it as a 2D matrix, treat it as a sorted array.
+
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         //corner cases
