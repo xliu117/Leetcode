@@ -37,3 +37,8 @@ since we need to scan twice(two for-loop), the time complexity is O(n*m).
 
 Space complexity:
 O(1)
+
+*2.KMP
+Linear Time
+
+*3.
