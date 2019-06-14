@@ -20,3 +20,9 @@ Output:
   [1,2],
   []
 ]
+
+Solution:Combination
+=
+
+Time complexity:O(2^n)
+space complexity:O(n)
