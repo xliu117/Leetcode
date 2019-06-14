@@ -28,4 +28,12 @@ For the purpose of this problem, we will return 0 when needle is an empty string
 Solution:
 =
 * 1.Brute Force
+
 Idea:
+scan through string haystack, for each character a, compare if the string needle matches the substring strated at a in haystrack.
+
+Time complexity:
+since we need to scan twice(two for-loop), the time complexity is O(n*m).
+
+Space complexity:
+O(1)
