@@ -8,3 +8,6 @@ Return -1, if the number doesn't exist in the array.
 
 这题目其实主要考察个如何“倍增”，二分法的内容其实没啥区别。
 首先可以确定的是，倍增到-1为止或者倍增到大于target，接下来用二分法找first element。需要注意一点，如果get(mid) == -1的话说明mid已经超出范围了，需要让end = mid；
+
+
+## Leetcode 702
