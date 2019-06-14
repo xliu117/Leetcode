@@ -1,14 +1,8 @@
-47. Permutations II
+# 47. Permutations II
 Medium
 
-1011
-
-43
-
-Favorite
-
-Share
 Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+=
 
 Example:
 
