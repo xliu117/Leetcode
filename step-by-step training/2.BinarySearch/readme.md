@@ -11,7 +11,7 @@
 
 [159. Find Minimum in Rotated Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LintCode159.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 
-75.Find Peak Element
+[75.Find Peak Element](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode.162.%20Find%20Peak%20Element)
 
 74.First Bad Version
 
