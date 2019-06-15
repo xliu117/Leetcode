@@ -13,3 +13,7 @@ Note:
 The value k is positive and will always be smaller than the length of the sorted array.
 Length of the given array is positive and will not exceed 104
 Absolute value of elements in the array and x will not exceed 104
+
+思路：
+
+先用二分法找到数组中>=x的第一个数字，然后向左向右寻找，两个指针向左右移动，直至k次结束，此时将两个指针中间的元素加入结果集即是最终答案。
