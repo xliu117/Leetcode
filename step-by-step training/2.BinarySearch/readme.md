@@ -18,7 +18,7 @@
 [62.Search in Rotated Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode33.%20Search%20in%20Rotated%20Sorted%20Array)
 
 
-462.Total Occurrence of Target
+[462.Total Occurrence of Target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LintCode62.%20Total%20Occurrence%20of%20Target)
 
 254.Drop Eggs
 
