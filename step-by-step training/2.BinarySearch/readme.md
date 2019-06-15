@@ -13,7 +13,7 @@
 
 [75.Find Peak Element](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode.162.%20Find%20Peak%20Element)
 
-74.First Bad Version
+[74.First Bad Version](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/278.%20First%20Bad%20Version)
 
 62.Search in Rotated Sorted Array
 
