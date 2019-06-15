@@ -20,3 +20,11 @@ Example 2:
 
 Input: nums = [4,5,6,7,0,1,2], target = 3
 Output: -1
+
+思路
+
+用二分法，判断target的区间。
+
+如果A[mid] > A[start]并且target在它们之间，往前找。否则往后找。注意后面还是一个Sorted Array！
+
+如果A[mid] < A[end]并且target在它们之间，往后找。否则往前找。注意前面还是一个Sorted Array！
