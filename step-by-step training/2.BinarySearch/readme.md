@@ -9,7 +9,7 @@
 
 [447.Search in a Big Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/Lintcode447.%20Search%20in%20a%20Big%20Sorted%20Array)
 
-159. Find Minimum in Rotated Sorted Array
+[159. Find Minimum in Rotated Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LintCode159.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 
 75.Find Peak Element
 
