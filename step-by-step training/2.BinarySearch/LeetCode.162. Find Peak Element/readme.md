@@ -23,3 +23,12 @@ Explanation: Your function can return either index number 1 where the peak eleme
 Note:
 
 Your solution should be in logarithmic complexity.
+
+
+Challenge
+Time complexity O(logN)
+
+思路
+这道题的题意告诉我们，一定有peak。因为一开始是升序的，最后是降序的。
+那么我们在任何一点进行判断，如果这个点的值比左边大，那边这个点右边一定有peak。反之，这个点左边一定有peak。
+我们用二分法来做。
