@@ -26,7 +26,7 @@
 
 [460.K Closest Numbers in Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode.658.%20Find%20K%20Closest%20Elements)
 
-414. Divied Two integers
+[414. Divied Two integers](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode%2029.%20Divide%20Two%20Integers)
 
 61.Search for a Range
 
