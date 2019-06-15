@@ -5,7 +5,7 @@
 
 [28.Search a 2D Matrix](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/Leetcode74.%20Search%20a%202D%20matrix)
 
-585.Maximum Number in Mountain Sequence
+[585.Maximum Number in Mountain Sequence}(https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LintCode%20585.%20Maximum%20Number%20in%20Mountain%20Sequence)
 
 447.Search in a Big Sorted Array
 
