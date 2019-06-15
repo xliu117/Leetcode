@@ -15,7 +15,7 @@
 
 [74.First Bad Version](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/278.%20First%20Bad%20Version)
 
-62.Search in Rotated Sorted Array
+[62.Search in Rotated Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode33.%20Search%20in%20Rotated%20Sorted%20Array)
 
 
 462.Total Occurrence of Target
