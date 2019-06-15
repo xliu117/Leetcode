@@ -22,7 +22,7 @@
 
 254.Drop Eggs
 
-14.First Position of Target
+[14.First Position of Target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LintCode%2014.%20First%20Position%20of%20Target)
 
 [460.K Closest Numbers in Sorted Array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LeetCode.658.%20Find%20K%20Closest%20Elements)
 
