@@ -3,7 +3,7 @@
 
 [458.Last Position of Target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/Lintcode458.%20Last%20Position%20of%20Target)
 
-28.Search a 2D Matrix
+[28.Search a 2D Matrix](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/Leetcode74.%20Search%20a%202D%20matrix)
 
 585.Maximum Number in Mountain Sequence
 
