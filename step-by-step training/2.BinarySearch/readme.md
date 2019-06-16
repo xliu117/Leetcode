@@ -28,7 +28,7 @@
 
 414. Divied Two integers
 
-61.Search for a Range
+[61.Search for a Range](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/2.BinarySearch/LintCode%2061.%20Search%20for%20a%20Range)
 
 38.Search a 2D Matrix II
 
