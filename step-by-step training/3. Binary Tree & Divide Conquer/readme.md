@@ -11,7 +11,7 @@
 
 [376.Binary Tree Path Sum 二叉树的路径和](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20&%20Divide%20Conquer/LintCode%20376.%20Binary%20Tree%20Path%20Sum)
 
-[480.二叉树的所有路径](
+[480.二叉树的所有路径](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20480.%20Binary%20Tree%20Paths)
 
 
 453.将二叉树拆成链表
