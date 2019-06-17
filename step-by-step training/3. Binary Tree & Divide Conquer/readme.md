@@ -9,7 +9,7 @@
 
 [475.Binary Tree Maximum Path Sum II 二叉树的最大路径和 II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20475.%20Binary%20Tree%20Maximum%20Path%20Sum%20II)
 
-376.二叉树的路径和
+[376.Binary Tree Path Sum 二叉树的路径和](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20&%20Divide%20Conquer/LintCode%20376.%20Binary%20Tree%20Path%20Sum)
 
 480.二叉树的所有路径
 
