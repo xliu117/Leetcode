@@ -17,9 +17,9 @@ Given a binary tree:
 
       1
     /   \
- -5      2
+  -5      2
  / \     /  \
-0   2 -4  -5
+0   2  -4  -5
 return the node 1.
 
 思路
