@@ -7,7 +7,7 @@
 
 [597.Subtree with Maximum Average](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20597%20Subtree%20with%20Maximum%20Average)
 
-475.Binary Tree Maximum Path Sum II 二叉树的最大路径和 II
+[475.Binary Tree Maximum Path Sum II 二叉树的最大路径和 II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20475.%20Binary%20Tree%20Maximum%20Path%20Sum%20II)
 
 376.二叉树的路径和
 
