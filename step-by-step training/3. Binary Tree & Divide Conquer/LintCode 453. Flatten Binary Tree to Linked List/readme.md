@@ -40,4 +40,4 @@ Do it in-place without any extra memory.
 
 把左右子树分别flatten。然后把flatten过的左子树接在root的右边。然后从root往右走到底，把flatten过的右子树接上。
 
-LeetCode 114. Flatten Binary Tree to Linked List
+## LeetCode 114. Flatten Binary Tree to Linked List
