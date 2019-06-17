@@ -1,6 +1,7 @@
 [595.Binary Tree Longest Consecutive Sequence](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence)
 
-614.Binary Tree Longest Consecutive Sequence II
+[614.Binary Tree Longest Consecutive Sequence II](
+
 
 596.Minimum Subtree
 
