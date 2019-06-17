@@ -3,7 +3,7 @@
 [614.Binary Tree Longest Consecutive Sequence II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II)
 
 
-596.Minimum Subtree
+[596.Minimum Subtree](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20596%20Minimum%20Subtree)
 
 597.Subtree with Maximum Average
 
