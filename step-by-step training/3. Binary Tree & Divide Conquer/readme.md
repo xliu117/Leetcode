@@ -5,7 +5,7 @@
 
 [596.Minimum Subtree](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20596%20Minimum%20Subtree)
 
-597.Subtree with Maximum Average
+[597.Subtree with Maximum Average](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20597%20Subtree%20with%20Maximum%20Average)
 
 475.二叉树的最大路径和 II
 
