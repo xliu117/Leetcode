@@ -20,7 +20,7 @@
 
 [93.Balanced Binary Tree 平衡二叉树](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%20110.%20Balanced%20Binary%20Tree)
 
-[95. Validate Binary Search Tree 验证二叉查找树]
+[95. Validate Binary Search Tree 验证二叉查找树](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetColde%2098.%20Validate%20Binary%20Search%20Tree)
 
 97.二叉树的最大深度
 
