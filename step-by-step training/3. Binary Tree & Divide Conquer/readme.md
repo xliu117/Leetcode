@@ -18,7 +18,7 @@
 
 [*378.Convert Binary Search Tree to Doubly Linked List将二叉查找树转换成双链表](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20378%20Convert%20Binary%20Search%20Tree%20to%20Doubly%20Linked%20List)
 
-93.Balanced Binary Tree 平衡二叉树
+[93.Balanced Binary Tree 平衡二叉树](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%20110.%20Balanced%20Binary%20Tree)
 
 95.验证二叉查找树
 
