@@ -1,31 +1,16 @@
-public class Solution{
-     private int lastVal = Integer.MIN_VALUE;
-     private boolean firstNode = true;
-     
-     public boolean isValidBST(TreeNode root){
-           if(root == null){
-                return true;
-                }
-                
-            if(!isValidBST(root.left)){
-                return false;
-                }
-                
-            if(!firstNode && root.val <= lastVal){
-                 return false;
-                 }
-                 
-            firstNode = false;
-            lastVal = root.val;
-            
-            if(!isValidBST(root.right)){
-                    return false;
-                    }
-                    
-                    
-            return true;
-     }
-}     
-           
-            
-       
+class Solution {
+    public boolean helper(TreeNode node, Integer lower, Integer upper){
+        if(node == null) return true;
+        int val = node.val;
+        if(lower != null && val <= lower) return false;
+        if(upper != null && val >= upper) return false;
+        
+        if(!helper(node.right,val,upper)) return false;
+        if(!helper(node.left, lower, val)) return false;
+        
+        return true;
+    }
+    public boolean isValidBST(TreeNode root) {
+        return helper(root,null,null);
+    }
+}
