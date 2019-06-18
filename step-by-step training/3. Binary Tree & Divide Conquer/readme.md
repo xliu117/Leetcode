@@ -14,7 +14,7 @@
 [480.Binary Tree Paths 二叉树的所有路径](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20480.%20Binary%20Tree%20Paths)
 
 
-453.将二叉树拆成链表
+[453.将二叉树拆成链表](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20453.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 
 378.将二叉查找树转换成双链表
 
