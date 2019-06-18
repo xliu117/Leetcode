@@ -3,7 +3,7 @@ public class Solution{
         DoublyListNode head;
         DoublyListNode tail;
         Public ResultType( DoublyListNode head, DoublyListNode tail){
-            this head = head;
+            this.head = head;
             this.tail = tail;
             }
      }
