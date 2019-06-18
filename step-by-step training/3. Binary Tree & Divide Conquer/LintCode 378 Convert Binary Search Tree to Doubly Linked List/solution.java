@@ -1,3 +1,4 @@
+/***
 public class Solution{
     Class ResultType{
         DoublyListNode head;
@@ -40,3 +41,39 @@ public class Solution{
          
          
     }
+*//
+    
+//Iterative in order traversal
+    
+public class Solution{
+    public DoublyListNode bstToDoublyList(TreeNode root){
+        if(root == null) return null;
+        
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        TreeNode cur = root;
+        DoublyListNode head = null;
+        DoublyListNode prev = null;
+        
+        while( cur != null || !stack.empty()){
+            while(cur != null){
+                stack.push(cur);
+                cur = cur.left;
+            }
+            
+            cur = stack.pop();
+            DoublyListNode node = new DoublyListNode(cur.val);
+            if(head == null){
+                head = node;
+            }
+            
+            node.prev = prev;
+            if(prev != null){
+                prev.next = node;
+            }
+            cur = cur.right;
+            prev = node;
+        }
+        return head;
+    }
+}
+          
