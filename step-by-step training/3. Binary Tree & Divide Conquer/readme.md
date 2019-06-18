@@ -26,7 +26,7 @@
 
 [155. Minimum Depth of Binary Tree 二叉树的最小深度](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%20111.%20Minimum%20Depth%20of%20Binary%20Tree)
 
-66.Binary Tree Preorder Traversal 二叉树的前序遍历
+[66.Binary Tree Preorder Traversal 二叉树的前序遍历](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%20144.%20Binary%20Tree%20Preorder%20Traversal)
 
 67.二叉树的中序遍历
 
