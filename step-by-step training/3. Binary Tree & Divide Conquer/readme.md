@@ -16,7 +16,7 @@
 
 [*453.Flatten Binary Tree to Linked List将二叉树拆成链表](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20453.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 
-378.将二叉查找树转换成双链表
+[*378.将二叉查找树转换成双链表](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20378%20Convert%20Binary%20Search%20Tree%20to%20Doubly%20Linked%20List)
 
 93.平衡二叉树
 
