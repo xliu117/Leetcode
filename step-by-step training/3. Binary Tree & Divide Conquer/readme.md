@@ -36,7 +36,7 @@
 
 [448. Inorder Successor in BST 二叉查找树中序比后继](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%20285.%20Inorder%20Successor%20in%20BST)
 
-88.Lowest Common Ancestor 最近公共祖先
+[88.Lowest Common Ancestor 最近公共祖先](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%2088.%20Lowest%20Common%20Ancestor)
 
 474.Lowest Common Ancestor 最近公共祖先II
 
