@@ -38,7 +38,7 @@
 
 [88.Lowest Common Ancestor 最近公共祖先](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%2088.%20Lowest%20Common%20Ancestor)
 
-474.Lowest Common Ancestor 最近公共祖先II
+[474.Lowest Common Ancestor 最近公共祖先II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LintCode%20471.%20Lowest%20Common%20Ancestor%20II)
 
 578.Lowest Common Ancestor 最近公共祖先III
 
