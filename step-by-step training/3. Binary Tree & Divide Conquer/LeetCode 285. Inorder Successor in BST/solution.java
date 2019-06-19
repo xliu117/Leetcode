@@ -44,6 +44,8 @@ class Solution {
 
 
 //second solution
+//much faster 
+//time:O(h) h is the height of the BST
 class Solution{
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p){
         if(root == null){
@@ -51,7 +53,7 @@ class Solution{
         }
         
         TreeNode succ = null;
-        while(root != null{
+        while(root != null){
             if(p.val < root.val){
                 succ = root;
                 root = root.left;
