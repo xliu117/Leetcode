@@ -33,3 +33,21 @@ Note:
 If the given node has no in-order successor in the tree, return null.
 
 It's guaranteed that the values of the tree are unique.
+
+* Challenge
+
+O(h), where h is the height of the BST.
+
+
+
+* 思路
+
+中序遍历是左根右的顺序。
+
+在某一点root，如果root.val > p.val，说明p在root的左子树。那么我们可以往左继续找p。
+
+这时root就是候选的successor。
+
+在某一点root，如果root.val < p.val，说明p在root的右子树。那么我们保持现在的候选successor。
+
+总结：只要往左走，就更新successor的候选为当前点。
