@@ -30,7 +30,7 @@
 
 [66.Binary Tree Preorder Traversal 二叉树的前序遍历](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%20144.%20Binary%20Tree%20Preorder%20Traversal)
 
-67.二叉树的中序遍历
+[67. Binary Tree Inorder Traversal 二叉树的中序遍历](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/3.%20Binary%20Tree%20%26%20Divide%20Conquer/LeetCode%2094.Binary%20Tree%20Inorder%20Traversal)
 
 68.二叉树的后序遍历
 
