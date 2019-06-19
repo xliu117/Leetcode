@@ -1,6 +1,6 @@
 # [Leetcode](https://leetcode.com/problemset/all/) 
 
-* [Jiuzhang basic ladder training](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training)
+## [Jiuzhang basic ladder training](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training)
 
 ##  [huahua leetcode](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit?ts=5c91956a#gid=126913158)
 * Advanced
