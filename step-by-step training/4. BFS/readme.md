@@ -1,6 +1,6 @@
 # 4. BFS
 
-69. Binary Tree Level Order Traversal 二叉树的层次遍历
+[69. Binary Tree Level Order Traversal 二叉树的层次遍历](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/Leetcode%20102.%20Binary%20Tree%20Level%20Order%20Traversal)
 
 
 Binary Tree Serialization(M+Y)
