@@ -20,6 +20,9 @@ Search Graph Nodes(A)
 
 Topological Sorting
 
+Course Sechedule I && II ( G + A + F + Z)
+
+Sequence Reconstruction ( G + A)
 
 7.二叉树的序列化和反序列化
 
