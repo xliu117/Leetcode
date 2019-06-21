@@ -10,7 +10,7 @@
 
 [LeetCode 103. Binary Tree Zigzag Order Traversal](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 
-Convert Binary Tree to Linked Lists by Depth
+LintCode 242. Convert Binary Tree to Linked Lists by Depth
 
 Graph Valid Tree
 
