@@ -4,7 +4,7 @@
 
 [7. Binary Tree Serialization(M+Y) 二叉树的序列化和反序列化](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/Leetcode%20297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 
-Binary Tree Representation
+[Binary Tree Representation](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/Binary%20Tree%20Representation)
 
 Binary Tree Level Order Traversal II
 
