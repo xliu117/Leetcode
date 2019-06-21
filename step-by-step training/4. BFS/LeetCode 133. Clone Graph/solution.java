@@ -12,12 +12,7 @@ class Node {
     }
 };
 */
-
 public class Solution {
-    /**
-     * @param node: A undirected graph node
-     * @return: A undirected graph node
-     */
     public Node cloneGraph(Node node) {
         // write your code here
         
@@ -66,3 +61,33 @@ public class Solution {
         
     }
 }
+
+/***
+public class Solution{
+public Node cloneGraph(Node root) {
+        if ( root ==null ) return null;
+        
+        Node newRoot = new Node(root.val, new ArrayList<>());
+        
+        //HashMap<key = original node, value=copied node>
+        Map<Node, Node> hm = new HashMap();
+        hm.put(root, newRoot);
+        
+        //BFS queue to traverse graph 
+        LinkedList<Node> queue = new LinkedList();
+        queue.offer( root );
+        
+        while ( !queue.isEmpty() ){
+            Node node = queue.poll();
+            
+            for (Node nei: node.neighbors ) {
+                if ( !hm.containsKey( nei ) ) {
+                    queue.offer( nei );
+                    hm.put( nei, new Node(nei.val, new ArrayList<>()) );
+                }
+                hm.get(node).neighbors.add( hm.get(nei));
+            }
+        }
+        return newRoot;
+    }
+}*/
