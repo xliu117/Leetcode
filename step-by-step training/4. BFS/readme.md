@@ -12,7 +12,7 @@
 
 [LintCode 242. Convert Binary Tree to Linked Lists by Depth](https://github.com/xliu117/Leetcode/blob/master/step-by-step%20training/4.%20BFS/LintCode%20242.%20Convert%20Binary%20Tree%20to%20Linked%20List%20by%20Depth/solution.java)
 
-Graph Valid Tree
+[LeetCode 261. Graph Valid Tree](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20261.%20Graph%20Valid%20Tree)
 
 Clone Graph(F)
 
