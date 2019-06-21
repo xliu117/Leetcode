@@ -18,7 +18,7 @@
 
 [LintCode 618. Search Graph Nodes(A)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20%20618%20Search%20Graph%20Nodes)
 
-Topological Sorting
+[LintCode 127. Topological Sorting](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20127.%20Topological%20Sorting)
 
 Course Sechedule I && II ( G + A + F + Z)
 
