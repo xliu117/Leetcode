@@ -6,13 +6,13 @@
 
 [Binary Tree Representation](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/Binary%20Tree%20Representation)
 
-[LeetCode 107. Binary Tree Level Order Traversal II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
+[LeetCode 107. Binary Tree Level Order Traversal II 二叉树的层次遍历II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)
 
-[LeetCode 103. Binary Tree Zigzag Order Traversal](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
+[LeetCode 103. Binary Tree Zigzag Order Traversal 二叉树的锯齿形层次遍历](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 
-[LintCode 242. Convert Binary Tree to Linked Lists by Depth](https://github.com/xliu117/Leetcode/blob/master/step-by-step%20training/4.%20BFS/LintCode%20242.%20Convert%20Binary%20Tree%20to%20Linked%20List%20by%20Depth/solution.java)
+[LintCode 242. Convert Binary Tree to Linked Lists by Depth 将二叉树按照层级转化为链表](https://github.com/xliu117/Leetcode/blob/master/step-by-step%20training/4.%20BFS/LintCode%20242.%20Convert%20Binary%20Tree%20to%20Linked%20List%20by%20Depth/solution.java)
 
-[LeetCode 261. Graph Valid Tree](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20261.%20Graph%20Valid%20Tree)
+[LeetCode 261. Graph Valid Tree 图是否是树](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20261.%20Graph%20Valid%20Tree)
 
 Clone Graph(F)
 
@@ -24,17 +24,14 @@ Course Sechedule I && II ( G + A + F + Z)
 
 Sequence Reconstruction ( G + A)
 
-7.二叉树的序列化和反序列化
+
 
 433.岛屿的个数
 
-69.二叉树的层次遍历
 
-70.二叉树的层次遍历II
 
-71.二叉树的锯齿形层次遍历
 
-242.将二叉树按照层级转化为链表
+
 
 137.clone图
 
@@ -48,7 +45,7 @@ Sequence Reconstruction ( G + A)
 
 616.安排课程
 
-178.图是否是树
+
 
 618.SearchGraph Nodes
 
