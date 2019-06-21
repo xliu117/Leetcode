@@ -16,7 +16,7 @@
 
 [LeetCode 133. Clone Graph(F) clone图]()
 
-Search Graph Nodes(A)
+[LintCode 618. Search Graph Nodes(A)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20%20618%20Search%20Graph%20Nodes)
 
 Topological Sorting
 
