@@ -35,3 +35,8 @@ The undirected graph is a simple graph, which means no repeated edges and no sel
 Since the graph is undirected, if node p has node q as neighbor, then node q must have node p as neighbor too.
 
 You must return the copy of the given node as a reference to the cloned graph.
+
+思路
+
+首先会想到用BFS或者DFS去遍历这个图，然后对于每一个点，我们做一个新的点出来。我们要解决的问题是新做的点之间要像遍历过的点那样连起来。由此我们想到用HashMap来做老的点和新的点之间的对应。
+我们用BFS做。具体看代码。
