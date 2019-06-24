@@ -34,3 +34,8 @@ Note:
 
 The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about how a graph is represented.
 You may assume that there are no duplicate edges in the input prerequisites.
+
+
+思路
+
+这题其实就是问的能不能做出一个topological sort出来。
