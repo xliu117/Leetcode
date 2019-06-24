@@ -20,7 +20,7 @@
 
 [LintCode 127. Topological Sorting](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20127.%20Topological%20Sorting)
 
-Course Sechedule I  ( G + A + F + Z)
+[Course Sechedule I  ( G + A + F + Z)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20207.%20Course%20Schedule)
 Course Sechedule II ( G + A + F + Z)
 Course Sechedule III ( G + A + F + Z)
 
