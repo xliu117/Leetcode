@@ -36,7 +36,7 @@
 
 
 
-598.Zombie in Matrix
+[598.Zombie in Matrix](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20598.%20Zombie%20in%20Matrix)
 
 
 Build Post Office I & II
