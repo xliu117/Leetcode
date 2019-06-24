@@ -1,16 +1,36 @@
-# LintCode 431. Connected component in undirected graph
+# [LintCode] 431 Connected Component in Undirected Graph 解题报告
 
-请找出无向图中相连要素的个数。
+Description
 
-图中的每个节点包含其邻居的 1 个标签和 1 个列表。（一个无向图的相连节点（或节点）是一个子图，其中任意两个顶点通过路径相连，且不与超级图中的其它顶点相连。）
+Find the number connected component in the undirected graph. Each node in the graph contains a label and a list of its neighbors. (a connected component (or just component) of an undirected graph is a subgraph in which any two vertices are connected to each other by paths, and which is connected to no additional vertices in the supergraph.)
 
-样例
-给定图:
+
+Notice
+
+Each connected component should sort by label.
+
+
+Clarification
+
+Learn more about representation of graphs
+
+
+Example
+
+Given graph:
 
 A------B  C
- \     |  | 
-  \    |  |
-   \   |  |
-    \  |  |
-      D   E
-返回 {A,B,D}, {C,E}。其中有 2 个相连的元素，即{A,B,D}, {C,E}
+  \         |   |
+    \       |   |
+      \     |   |
+        \   |   |
+          D   E
+Return {A,B,D}, {C,E}. Since there are two connected component which is {A,B,D}, {C,E}
+
+
+思路
+
+看到图的连通的问题都可以想到union find。
+这题的UF由于上来不知道点的值的大小，所以不能开一个数组，只能用HashMap来实现。
+把所有的点和对应的root存进HashMap。
+最后需要输出结果的时候，把相同root的点放进同一个list。最后把每个list排个序。
