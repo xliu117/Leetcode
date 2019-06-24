@@ -23,3 +23,6 @@ Input:
 00011
 
 Output: 3
+
+
+https://www.jiuzhang.com/solution/number-of-islands/
