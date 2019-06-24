@@ -18,9 +18,9 @@
 
 [LintCode 618. Search Graph Nodes(A)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20%20618%20Search%20Graph%20Nodes)
 
-[LintCode 127. Topological Sorting](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20127.%20Topological%20Sorting)
+[LintCode 127. Topological Sorting 拓扑排序](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20127.%20Topological%20Sorting)
 
-[Course Sechedule I  ( G + A + F + Z)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20207.%20Course%20Schedule)
+[Course Sechedule I  ( G + A + F + Z) 616.安排课程](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20207.%20Course%20Schedule)
 Course Sechedule II ( G + A + F + Z)
 Course Sechedule III ( G + A + F + Z)
 
@@ -40,11 +40,11 @@ Sequence Reconstruction ( G + A)
 
 611.Knight Shortest Path
 
-127.拓扑排序
 
-615.Course Schedule
 
-616.安排课程
+
+
+
 
 
 
