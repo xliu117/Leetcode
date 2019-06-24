@@ -41,7 +41,7 @@
 
 Build Post Office I & II
 
-611.Knight Shortest Path
+[611.Knight Shortest Path](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20611.%20Knight%20Shortest%20Path)
 
 
 
