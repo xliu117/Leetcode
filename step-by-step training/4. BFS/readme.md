@@ -25,7 +25,7 @@
 [Course Sechedule II ( G + A + F + Z)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20210.%20Course%20Schedule%20II)
 
 
-Course Sechedule III ( G + A + F + Z)
+[Course Sechedule III ( G + A + F + Z)](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20630.%20Course%20Schedule%20III)
 
 Sequence Reconstruction ( G + A)
 
