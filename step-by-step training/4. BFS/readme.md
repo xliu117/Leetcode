@@ -44,7 +44,7 @@ Build Post Office I & II
 [611.Knight Shortest Path](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20611.%20Knight%20Shortest%20Path)
 
 
-[431.Connected component in undirected graph 找无项图的连通块](
+[431.Connected component in undirected graph 找无项图的连通块](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20431.Connected%20component%20in%20undirected%20graph)
 
 
 531.六度问题
