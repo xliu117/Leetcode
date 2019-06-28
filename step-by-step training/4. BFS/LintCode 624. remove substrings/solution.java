@@ -9,7 +9,7 @@ class Solution{
          
          while(!que.isEmpty()){
              s = que.poll();
-             for(String sub : dict){
+             for(String sub : dict){//chech each substring in the dict
                 int found = s.indexOf(sub);
                 while(found != -1){
                     String new_s = s.substring(0,found) + s.substring(found+sub.lenght(),s.length());
