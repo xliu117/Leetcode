@@ -49,7 +49,7 @@ Build Post Office I & II
 
 [531. Six Degrees 六度问题](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20531.%20Six%20Degrees)
 
-120.单词接龙
+[120. Word Ladder 单词接龙](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20127.%20Word%20Ladder)
 
 624.remove substrings
 
