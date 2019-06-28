@@ -47,7 +47,7 @@ Build Post Office I & II
 [431.Connected component in undirected graph 找无项图的连通块](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20431.Connected%20component%20in%20undirected%20graph)
 
 
-531.六度问题
+[531. Six Degrees 六度问题](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20531.%20Six%20Degrees)
 
 120.单词接龙
 
