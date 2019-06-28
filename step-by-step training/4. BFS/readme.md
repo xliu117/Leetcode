@@ -51,6 +51,6 @@ Build Post Office I & II
 
 [120. Word Ladder 单词接龙](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LeetCode%20127.%20Word%20Ladder)
 
-624.remove substrings
+[624.remove substrings 移除子串](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/4.%20BFS/LintCode%20624.%20remove%20substrings)
 
 https://yeqiuquan.blogspot.com/search/label/Breadth-First%20Search
