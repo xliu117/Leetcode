@@ -1,6 +1,43 @@
 # 6.Linked List & Array
 
+Reverse Linked List
 
+Reverse Nodes in K Group
+
+Partition List
+
+Merge two sorted lists
+
+reverse linked list II
+
+
+swap two nodes in linked list
+
+reorder list
+
+
+rotate list
+
+Copy list with random pointer
+
+linked list cycle
+
+linked list cycle ii
+
+
+intersection of two linked lists
+
+sort list
+
+maximum subarray
+
+merge two sorted arrays
+
+median
+
+kth largest number
+
+kth smallest number
 
 6、合并排序数组
 
