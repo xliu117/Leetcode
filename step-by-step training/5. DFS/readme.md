@@ -1,7 +1,7 @@
 
 [subsets](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2078.%20Subsets)
 
-Combination Sum
+[Combination Sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2039.%20Combination%20Sum)
 
 Combination Sum II
 
