@@ -22,6 +22,4 @@ Explanation: The palindrome partitioning ["aa","b"] could be produced using 1 cu
 如果 s 前 i 个字符组成的子串本身就是回文串, 则 dp[i] = 0, 否则:
 
 dp[i] = min{dp[j] + 1} (j < i 并且 s[j + 1], s[j + 2], ... , s[i] 是回文串)
-如果想要是 O(n^2n 
-2
- ) 的时间复杂度 (n 是 s 的长度), 需要事先求出来回文串信息, 在状态转移时可以 O(1) 地知道一段子串是否回文的.
+如果想要是 O(n^2) 的时间复杂度 (n 是 s 的长度), 需要事先求出来回文串信息, 在状态转移时可以 O(1) 地知道一段子串是否回文的.
