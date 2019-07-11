@@ -8,6 +8,8 @@
 
 [Palindrome Partitioning 分割回文串](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%20131.%20Palindrome%20Partitioning)
 
+Palindrome Partitioning II 分割回文串II
+
 Permutations II
 
 N-Queens
