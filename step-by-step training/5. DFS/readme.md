@@ -10,6 +10,8 @@
 
 [Palindrome Partitioning II 分割回文串II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%20132.%20Palindrome%20Partitioning%20II)
 
+[Permutations](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2046.%20Permutations)
+
 Permutations II
 
 N-Queens
