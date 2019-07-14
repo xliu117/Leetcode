@@ -48,8 +48,4 @@ Explanation: There exist two distinct solutions to the 4-queens puzzle as shown 
 即，可以放置，就往下找；放不了，就往回看，拜托上层变一变，看能不能继续往下找，直到第一层都试过最后一列的位置，程序结束。
 
 由于需要记录所有可行结果并输出，在每次得到可行结果时，将当前结果保存，并将Q还原为"."，方便回溯。 
---------------------- 
-作者：Azoobie 
-来源：CSDN 
-原文：https://blog.csdn.net/sinat_26230689/article/details/52206498 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
