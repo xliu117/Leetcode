@@ -18,7 +18,7 @@
 
 [Permutations II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2047.%20Permutations%20II)
 
-N-Queens
+[N-Queens](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2051.%20N-Queens)
 
 Word Ladder
 
