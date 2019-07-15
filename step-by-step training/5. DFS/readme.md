@@ -20,6 +20,9 @@
 
 [N-Queens](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2051.%20N-Queens)
 
+
+Palindrome Permutation II
+
 Word Ladder
 
 10.String Permutation II 字符串的不同排列
