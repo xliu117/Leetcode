@@ -2,7 +2,7 @@
 
 [Reverse Linked List](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20%26%20Array/LeetCode%20206.%20Reverse%20Linked%20List)
 
-Reverse Nodes in K Group
+[Reverse Nodes in K Group](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%2025.%20Reverse%20Nodes%20in%20k-Group)
 
 Partition List
 
