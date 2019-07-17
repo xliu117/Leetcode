@@ -4,7 +4,7 @@
 
 [Reverse Nodes in K Group](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%2025.%20Reverse%20Nodes%20in%20k-Group)
 
-Partition List
+[Partition List](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20%26%20Array/LeetCode%2086.%20Partition%20List)
 
 Merge two sorted lists
 
