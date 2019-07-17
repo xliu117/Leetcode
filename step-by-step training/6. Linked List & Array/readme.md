@@ -8,7 +8,7 @@
 
 [Merge two sorted lists](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20%26%20Array)
 
-reverse linked list II
+[reverse linked list II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%2092.%20Reverse%20Linked%20List%20II)
 
 
 swap two nodes in linked list
