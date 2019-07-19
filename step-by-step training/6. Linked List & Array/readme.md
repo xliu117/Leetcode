@@ -18,7 +18,7 @@
 
 [rotate list](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20%26%20Array/LeetCode%2061.%20Rotate%20List)
 
-Copy list with random pointer
+[Copy list with random pointer](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20138.%20Copy%20List%20with%20Random%20Pointer)
 
 linked list cycle
 
