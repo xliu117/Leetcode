@@ -25,7 +25,7 @@
 [linked list cycle ii](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20142.%20Linked%20List%20Cycle%20II)
 
 
-intersection of two linked lists
+[intersection of two linked lists](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20160.%20Intersection%20of%20Two%20Linked%20Lists)
 
 sort list
 
