@@ -27,7 +27,7 @@
 
 [intersection of two linked lists](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20160.%20Intersection%20of%20Two%20Linked%20Lists)
 
-sort list
+[sort list](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20148.%20Sort%20List)
 
 maximum subarray
 
