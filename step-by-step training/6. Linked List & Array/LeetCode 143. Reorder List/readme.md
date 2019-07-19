@@ -15,3 +15,11 @@ Given 1->2->3->4, reorder it to 1->4->2->3.
 Example 2:
 
 Given 1->2->3->4->5, reorder it to 1->5->2->4->3.
+
+Idea:
+first use two slow and fast pointers find the mid node,
+then generate reverse list L' from the second part:
+L : L0 -> L1 -> L2 -> L3 -> ... -> Lk
+L' : Ln -> Ln-1 -> Ln-2 -> Ln-3 -> ... -> Lk+1
+last conbine L and L' together.
+
