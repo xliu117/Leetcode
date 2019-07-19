@@ -22,7 +22,7 @@
 
 [linked list cycle](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20141.%20Linked%20List%20Cycle)
 
-linked list cycle ii
+[linked list cycle ii](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20142.%20Linked%20List%20Cycle%20II)
 
 
 intersection of two linked lists
