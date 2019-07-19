@@ -13,7 +13,7 @@
 
 [swap two nodes in linked list](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20%26%20Array/LintCode%20511.%20Swap%20two%20nodes%20in%20linked%20lists)
 
-reorder list
+[reorder list](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20143.%20Reorder%20List)
 
 
 rotate list
