@@ -20,7 +20,7 @@
 
 [Copy list with random pointer](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20138.%20Copy%20List%20with%20Random%20Pointer)
 
-linked list cycle
+[linked list cycle](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/6.%20Linked%20List%20&%20Array/LeetCode%20141.%20Linked%20List%20Cycle)
 
 linked list cycle ii
 
