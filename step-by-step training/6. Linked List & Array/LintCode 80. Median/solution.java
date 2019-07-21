@@ -53,3 +53,46 @@ public class Solution {
         }
     }
 }
+
+
+
+
+public class Solution {
+    /**
+     * @param nums: A list of integers.
+     * @return: An integer denotes the middle number of the array.
+     */
+    public int median(int[] nums) {
+        if (nums == null) return -1;
+
+        return helper(nums, 0, nums.length - 1, (nums.length + 1) / 2);
+    }
+
+    // l: lower, u: upper, m: median
+    private int helper(int[] nums, int l, int u, int size) {
+        if (l >= u) return nums[u];
+
+        int m = l;
+        for (int i = l + 1; i <= u; i++) {
+            if (nums[i] < nums[l]) {
+                m++;
+                int temp = nums[m];
+                nums[m] = nums[i];
+                nums[i] = temp;
+            }
+        }
+        // swap between array[m] and array[l]
+        // put pivot in the mid
+        int temp = nums[m];
+        nums[m] = nums[l];
+        nums[l] = temp;
+
+        if (m - l + 1 == size) {
+            return nums[m];
+        } else if (m - l + 1 > size) {
+            return helper(nums, l, m - 1, size);
+        } else {
+            return helper(nums, m + 1, u, size - (m - l + 1));
+        }
+    }
+}
