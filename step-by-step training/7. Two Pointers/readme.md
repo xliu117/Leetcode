@@ -44,3 +44,7 @@ Two Pointers: O(n^2) O(1)space
 Triangle Count
 
 
+Two Sum- Greater than target
+
+Two SUm - Less than or equal to target
+
