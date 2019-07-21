@@ -58,3 +58,10 @@ Two Sum - Difference equals to target
 
 ## Partition array
 
+## Quick Select
+
+kth smallest numbers in unsorted array
+
+kth largest element
+
+wath video:quick-select
