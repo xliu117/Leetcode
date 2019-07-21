@@ -28,3 +28,6 @@ Sort+2P: time:O(nlogn)  space:O(1)
 
 sort:O(nlogn)
 2p:O(n)
+
+只能使用HashMap: two-sum-data-structure-design
+使用Two Pointers 会更快：two-sum-input-array-is-sorted
