@@ -35,4 +35,8 @@ sort:O(nlogn)
 
 Two-Sum- Unique Pairs
 
-3Sum
+3Sum 
+
+Hash:O(n^2) O(n)space
+Two Pointers: O(n^2) O(1)space
+
