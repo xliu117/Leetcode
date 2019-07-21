@@ -76,3 +76,16 @@ wath video:quick-select
 Sort Colors:partition array in three parts
 
 Sort Colors II / Rainbow sort
+
+## 看视频：QuickSort / MergeSort
+
+## 其他有趣的排序：
+
+烙饼排序 Pancake Sort(有可能会考）
+
+睡眠排序 Sleep Sort
+
+面条排序Spaghetti Sort
+
+猴子排序Bogo Sort
+
