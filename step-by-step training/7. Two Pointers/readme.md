@@ -55,3 +55,6 @@ Two Sum - Closest to target
 4Sum
 
 Two Sum - Difference equals to target
+
+## Partition array
+
