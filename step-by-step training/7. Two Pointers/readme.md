@@ -16,3 +16,9 @@ valid-palindrome
 rotate-string
 
 recover-related-sorted-array
+
+## Two Sum 及其所有的变种
+Two-sum
+HashMap vs. Two Pointers
+HashSet:time:O(n) space:O(n)
+Sort+2P: time:O(nlogn)  space:O(1)
