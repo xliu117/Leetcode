@@ -58,6 +58,12 @@ Two Sum - Difference equals to target
 
 ## Partition array
 
+Partition array by odd and even
+
+Interleaving positive and negative numbers
+
+sort letters by case
+
 ## Quick Select
 
 kth smallest numbers in unsorted array
