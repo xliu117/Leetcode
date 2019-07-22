@@ -3,3 +3,8 @@ class Solution {
         return A.length() == B.length() && (A + A).contains(B);
     }
 }
+
+
+
+///KMP
+//KMP (Knuth-Morris-Pratt) 
