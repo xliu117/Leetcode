@@ -62,3 +62,7 @@ If at any point in this algorithm our match length is N, we've found B in A+A su
         return false;
     }
 }
+
+Time Complexity: O(N)O(N), where NN is the length of A.
+
+Space Complexity: O(N)O(N), to create the shift table shifts.
