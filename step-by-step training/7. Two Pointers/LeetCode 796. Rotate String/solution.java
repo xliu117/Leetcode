@@ -3,7 +3,9 @@ class Solution {
         return A.length() == B.length() && (A + A).contains(B);
     }
 }
+Time Complexity: O(N^2), where NN is the length of A.
 
+Space Complexity: O(N), the space used building A+A.
 
 
 ///KMP
