@@ -3,7 +3,7 @@
 
 ## 同相双指针
 
-Window-Sum
+[1.Window-Sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20604.%20Window%20Sum)
 
 move-zeros
 
