@@ -10,7 +10,7 @@
 [3.Remove-duplicate-numbers-in-array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20521%20Remove%20Duplicate%20Numbers%20in%20Array)
 
 
-[4. Remove Duplicates from Sorted Array II]()
+[4. Remove Duplicates from Sorted Array II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
 ## 相向双指针
 
