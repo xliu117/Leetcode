@@ -16,3 +16,10 @@ Note:
 You must do this in-place without making a copy of the array.
 
 Minimize the total number of operations.
+
+
+思路
+
+用两个指针遍历数组。
+一个指针指向可以swap的位置，另一个去找不是0的数。
+碰到不是0的，就swap。
