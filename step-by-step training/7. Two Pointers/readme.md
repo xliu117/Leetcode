@@ -14,7 +14,7 @@
 
 ## 相向双指针
 
-valid-palindrome
+[5.valid-palindrome](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20125.%20Valid%20Palindrome)
 
 rotate-string
 
