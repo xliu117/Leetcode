@@ -16,7 +16,7 @@
 
 [5.valid-palindrome](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20125.%20Valid%20Palindrome)
 
-rotate-string
+[6.rotate-string](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%208.%20Rotate%20String)
 
 recover-related-sorted-array
 
