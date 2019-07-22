@@ -7,7 +7,10 @@
 
 [2.move-zeros](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20283.%20Move%20Zeroes)
 
-Remove-duplicate-numbers-in-array
+[3.Remove-duplicate-numbers-in-array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20521%20Remove%20Duplicate%20Numbers%20in%20Array)
+
+
+[4. Remove Duplicates from Sorted Array II]()
 
 ## 相向双指针
 
