@@ -1,24 +1,39 @@
+/***
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k = 2;
+      if(nums.length < 3){
+          return nums.length;
+      }
         
-        if(nums.length == 0) return 0;
-        
-        
-        int index = 1;
-        int count = 1;
-        
-        for(int j = 1; j < nums.length; j++){
-            if(nums[j] == nums[j-1]){
-                if(count < k){
-                    nums[index++] = nums[j];
-                }
-                count++;  
-            }else{
-                count = 1;
-                nums[index++] = nums[j];
-            } 
+        int last = 2;
+        int next = 2;
+        while(next < nums.length){
+            if(nums[last - 2] != nums[next]){
+                nums[last] = nums[next];
+                last++;
+            }
+            next++;
         }
-        return index;
+        return last;
     }
 }
+*/
+
+
+//Same simple solution written in several languages. Just go through the numbers and include those in the result that haven't been included twice already.
+
+
+class Solution{
+    public int removeDuplicates(int[] nums){
+        int i = 0;
+        for(int n : nums){
+            if(i<2 || n > nums[i-2]){
+                nums[i++] = n;
+            }
+        }
+        
+        return i;
+    }
+}
+
+//自己宛如智障!
