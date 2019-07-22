@@ -18,7 +18,7 @@
 
 [6.rotate-string](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%208.%20Rotate%20String)
 
-recover-related-sorted-array
+[7.recover-related-sorted-array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2039.%20Recover%20Rotated%20Sorted%20Array)
 
 ## Two Sum 及其所有的变种
 Two-sum
