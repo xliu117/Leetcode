@@ -32,7 +32,7 @@ Sort+2P: time:O(nlogn)  space:O(1)
 sort:O(nlogn)
 2p:O(n)
 
-只能使用HashMap: two-sum-data-structure-design
+只能使用HashMap: [9.two-sum-data-structure-design](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
 使用Two Pointers 会更快：two-sum-input-array-is-sorted
 
