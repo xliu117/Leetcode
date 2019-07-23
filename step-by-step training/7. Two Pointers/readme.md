@@ -36,7 +36,7 @@ sort:O(nlogn)
 
 使用Two Pointers 会更快：[10.two-sum-input-array-is-sorted](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 
-Two-Sum- Unique Pairs
+[11.Two-Sum- Unique Pairs](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20587%20Two%20Sum%20-%20Unique%20pairs)
 
 ### 3Sum 
 
