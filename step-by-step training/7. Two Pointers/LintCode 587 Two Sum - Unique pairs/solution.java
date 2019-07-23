@@ -2,7 +2,7 @@ class Solution{
     public int twoSum6(int[] nums, int target)[
           int count = 0;
           
-          if(nums.length == 0){
+          if(nums.length < 2 || nums == null){
                return 0;
           }
           
@@ -15,21 +15,23 @@ class Solution{
               int sum = nums[i] + nums[j];
               if(sum == target){
                   count++;
-                  while(i == 0 || nums[i] == nums[i-1]){
+                  i++;
+                  j--;
+                  while(i < j && nums[i] == nums[i-1]){
                         i++;
                    }
-                  while(j == nums.length - 1 || nums[j] == nums[j+1]){
+                  while( i < j && nums[j] == nums[j+1]){
                         j--;
                    }
-                  continue;
+                  
                }
-               if(sum < target){
+               else if(sum < target){
                    i++;
-                   continue;
+            
                }
-               if(sum > target){
+               else if(sum > target){
                    j--;
-                   continue;
+                  
                }
           }
           
