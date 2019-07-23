@@ -51,7 +51,7 @@ Two Pointers: O(n^2) O(1)space
 
 [15.Two SUm - Less than or equal to target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20609%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)
 
-Two Sum - Closest to target
+[16.Two Sum - Closest to target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20533.%20Two%20Sum%20-%20Closest%20to%20target)
 
 3Sum-CLosest
 
