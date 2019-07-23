@@ -34,7 +34,7 @@ sort:O(nlogn)
 
 只能使用HashMap: [9.two-sum-data-structure-design](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)
 
-使用Two Pointers 会更快：two-sum-input-array-is-sorted
+使用Two Pointers 会更快：[10.two-sum-input-array-is-sorted](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
 
 Two-Sum- Unique Pairs
 
