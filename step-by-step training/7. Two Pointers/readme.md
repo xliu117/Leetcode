@@ -21,7 +21,7 @@
 [7.recover-related-sorted-array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2039.%20Recover%20Rotated%20Sorted%20Array)
 
 ## Two Sum 及其所有的变种
-Two-sum
+[8.Two-sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%201.%20Two%20Sum)
 
 HashMap vs. Two Pointers
 
