@@ -44,7 +44,7 @@ Hash:O(n^2) O(n)space
 Two Pointers: O(n^2) O(1)space
 
 
-Triangle Count
+[13.Triangle Count](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20611.%20Valid%20Triangle%20Number)
 
 
 Two Sum- Greater than target
