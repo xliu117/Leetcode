@@ -55,7 +55,7 @@ Two Pointers: O(n^2) O(1)space
 
 [17.3Sum-CLosest](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2059.%203Sum%20Closest)
 
-4Sum
+[18.4Sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2018.%204Sum)
 
 Two Sum - Difference equals to target
 
