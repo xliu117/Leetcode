@@ -47,7 +47,7 @@ Two Pointers: O(n^2) O(1)space
 [13.Triangle Count](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20611.%20Valid%20Triangle%20Number)
 
 
-Two Sum- Greater than target
+[14.Two Sum- Greater than target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20443.%20Two%20Sum%20-%20Greater%20than%20target)
 
 Two SUm - Less than or equal to target
 
