@@ -53,7 +53,7 @@ Two Pointers: O(n^2) O(1)space
 
 [16.Two Sum - Closest to target](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20533.%20Two%20Sum%20-%20Closest%20to%20target)
 
-3Sum-CLosest
+[17.3Sum-CLosest](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2059.%203Sum%20Closest)
 
 4Sum
 
