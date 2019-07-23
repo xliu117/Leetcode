@@ -38,7 +38,7 @@ sort:O(nlogn)
 
 [11.Two-Sum- Unique Pairs](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20587%20Two%20Sum%20-%20Unique%20pairs)
 
-### 3Sum 
+### [12.3Sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2015.%203Sum) 
 
 Hash:O(n^2) O(n)space
 Two Pointers: O(n^2) O(1)space
