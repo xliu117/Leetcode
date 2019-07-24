@@ -57,7 +57,7 @@ Two Pointers: O(n^2) O(1)space
 
 [18.4Sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2018.%204Sum)
 
-Two Sum - Difference equals to target
+[19.Two Sum - Difference equals to target](https://github.com/xliu117/Leetcode/blob/master/step-by-step%20training/7.%20Two%20Pointers/LIntCode%20610%20Two%20Sum%20-%20Difference%20equals%20to%20target/solution.java)
 
 ## Partition array
 
