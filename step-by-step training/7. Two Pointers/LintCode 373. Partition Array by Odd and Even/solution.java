@@ -22,3 +22,7 @@ class Solution{
        return;
     }
  }   
+
+
+//Analysis:
+//time:O(n); space:O(1)
