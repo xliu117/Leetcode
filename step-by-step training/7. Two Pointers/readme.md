@@ -65,7 +65,7 @@ Two Pointers: O(n^2) O(1)space
 
 [22.Interleaving positive and negative numbers](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20144.%20Interleaving%20Positive%20and%20Negative%20Numbers)
 
-sort letters by case
+[23.sort letters by case](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2049.%20Sort%20Letters%20by%20Case)
 
 ## Quick Select
 
