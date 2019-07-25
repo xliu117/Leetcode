@@ -13,3 +13,7 @@ Example 2:
 	Input: "ABC"
 	Output:  "ABC"
 	
+Challenge
+
+Do it in one-pass and in-place.	
+	
