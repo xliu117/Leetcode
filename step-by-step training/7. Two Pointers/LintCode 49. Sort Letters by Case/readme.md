@@ -17,3 +17,4 @@ Challenge
 
 Do it in one-pass and in-place.	
 	
+给定一个只包含字母的字符串，按照先小写字母后大写字母的顺序进行排序。
