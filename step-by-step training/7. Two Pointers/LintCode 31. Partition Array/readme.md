@@ -34,3 +34,22 @@ Can you partition the array in-place and in O(n)?
 思路
 
 标准的3-way-partition。
+
+
+
+解题思路
+
+非常相似的题[Partition Array by Odd and Even]
+
+正宗两个指针中对撞型指针的问题
+
+最外层大while循环，终止条件是两根指针对撞
+
+内层循环，分三步走
+
+左边如果小于K, left++
+
+右边如果大于等于K, right--
+
+最后停下时如果left <= right, swap
+
