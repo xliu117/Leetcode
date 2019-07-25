@@ -61,7 +61,7 @@ Two Pointers: O(n^2) O(1)space
 
 ## [20.Partition array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2031.%20Partition%20Array)
 
-Partition array by odd and even
+[21.Partition array by odd and even](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20373.%20Partition%20Array%20by%20Odd%20and%20Even)
 
 Interleaving positive and negative numbers
 
