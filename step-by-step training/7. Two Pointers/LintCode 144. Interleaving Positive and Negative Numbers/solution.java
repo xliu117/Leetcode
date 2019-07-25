@@ -22,7 +22,7 @@ class Solution{
           pos = 0;
           neg = 1;
           
-          
+          //reverse the array
           int left = 0;
           int right = n - 1;
           while(left < right){
