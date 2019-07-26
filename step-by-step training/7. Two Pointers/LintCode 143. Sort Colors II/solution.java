@@ -1,3 +1,4 @@
+// version 1: O(nlogk), the best algorithm based on comparing
 class Solution{
     public void sortColors2(int[] colors, int k){
         if(colors == null || colors.length == 0){
