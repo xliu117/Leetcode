@@ -82,7 +82,7 @@ wath video:quick-select
 
 [28.Wiggle Sort](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20280.%20Wiggle%20Sort)
 
-[29.Wiggle Sort II](
+[29.Wiggle Sort II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20324.%20Wiggle%20Sort%20II)
 
 ## 看视频：QuickSort / MergeSort
 
