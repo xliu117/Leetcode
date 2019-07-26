@@ -80,6 +80,10 @@ wath video:quick-select
 
 Sort Colors II / Rainbow sort
 
+Wiggle Sort
+
+Wiggle Sort II
+
 ## 看视频：QuickSort / MergeSort
 
 ## 其他有趣的排序：
