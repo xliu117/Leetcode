@@ -76,7 +76,7 @@ Two Pointers: O(n^2) O(1)space
 wath video:quick-select
 
 
-Sort Colors:partition array in three parts
+[26.Sort Colors:partition array in three parts](https://github.com/xliu117/Leetcode/blob/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2075.%20Sort%20Colors/solution.java)
 
 Sort Colors II / Rainbow sort
 
