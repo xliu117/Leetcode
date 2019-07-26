@@ -67,7 +67,7 @@ Two Pointers: O(n^2) O(1)space
 
 [23.sort letters by case](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%2049.%20Sort%20Letters%20by%20Case)
 
-## Quick Select
+## [Quick Select](https://en.wikipedia.org/wiki/Quickselect)
 
 [24.kth smallest numbers in unsorted array](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20461%20Kth%20Smallest%20Numbers%20in%20Unsorted%20Array)
 
