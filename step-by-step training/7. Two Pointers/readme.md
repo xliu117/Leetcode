@@ -78,7 +78,7 @@ wath video:quick-select
 
 [26.Sort Colors:partition array in three parts](https://github.com/xliu117/Leetcode/blob/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%2075.%20Sort%20Colors/solution.java)
 
-Sort Colors II / Rainbow sort
+[27.Sort Colors II / Rainbow sort](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LintCode%20143.%20Sort%20Colors%20II)
 
 [28.Wiggle Sort](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20280.%20Wiggle%20Sort)
 
