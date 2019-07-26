@@ -80,7 +80,7 @@ wath video:quick-select
 
 Sort Colors II / Rainbow sort
 
-Wiggle Sort
+[28.Wiggle Sort](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/7.%20Two%20Pointers/LeetCode%20280.%20Wiggle%20Sort)
 
 Wiggle Sort II
 
