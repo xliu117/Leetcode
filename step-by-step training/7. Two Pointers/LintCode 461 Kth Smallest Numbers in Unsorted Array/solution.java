@@ -10,13 +10,13 @@ class Solution {
     }
 
     public int quickSelect(int[] A, int start, int end , int k) {
-        if (start == end)
-            return A[start];
+        if (start == end) // contains only one element
+            return A[start]; //return this only element
         
         int left = start, right = end;
-        int pivot = A[(start + end) / 2];
+        int pivot = A[(start + end) / 2];//choose the pivot value
 
-        while (left <= right) {
+        while (left <= right) {//put smaller element to the left of the pivot, larget element to the right
             while (left <= right && A[left] < pivot) {
                 left++;
             }
@@ -32,7 +32,7 @@ class Solution {
                 right--;
             }
         }
-
+        //quick select
         if (right >= k && start <= right)
             return quickSelect(A, start, right, k);
         else if (left <= k && left <= end)
