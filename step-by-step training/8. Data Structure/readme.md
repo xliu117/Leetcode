@@ -17,7 +17,7 @@ longest consecutive sequence
 
 ## Heap
 
-PriorityQueue vs Heap
+看小视频：PriorityQueue vs Heap
 
 Ugly Number
 
