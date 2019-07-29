@@ -8,7 +8,7 @@
 
 [3.Subarray Sum](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LintCode%20138%20Subarray%20Sum)
 
-Copy List with random Pointer
+[4.Copy List with random Pointer](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LeetCode%20138.%20Copy%20List%20with%20Random%20Pointer)
 
 Anagrams
 
