@@ -2,7 +2,7 @@
 
 ## Hash
 
-Rehashing
+[1.Rehashing](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LintCode%20129.%20Rehashing)
 
 LRU Cache
 
