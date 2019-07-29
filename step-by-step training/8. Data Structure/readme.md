@@ -4,7 +4,7 @@
 
 [1.Rehashing](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LintCode%20129.%20Rehashing)
 
-LRU Cache
+[2.LRU Cache](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LeetCode%20146.%20LRU%20Cache)
 
 Subarray Sum
 
