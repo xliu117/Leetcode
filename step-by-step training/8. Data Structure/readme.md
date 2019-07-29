@@ -12,7 +12,7 @@
 
 [5.Anagrams](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LintCode%20171.%20Anagrams)
 
-longest consecutive sequence
+[6.longest consecutive sequence](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/8.%20Data%20Structure/LeetCode%20128.%20Longest%20Consecutive%20Sequence)
 
 
 ## Heap
