@@ -102,7 +102,7 @@ Longest Increasing Subsequence(LIS)
 
 6.键盘组合数 http://www.jiuzhang.com/qa/971/ (google)
 
-
+https://www.jiuzhang.com/qa/3/
 
 
 
