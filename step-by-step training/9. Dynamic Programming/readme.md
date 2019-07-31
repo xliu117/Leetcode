@@ -27,7 +27,7 @@ Unique Path II
 
 Climbing Stairs
 
-Jump Game
+Jump Game // 这个题最优方法是使用greedy, DP复杂度较高
 
 Jump Game II
 
