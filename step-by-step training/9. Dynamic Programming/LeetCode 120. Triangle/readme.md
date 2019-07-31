@@ -1,4 +1,4 @@
-# 120. Triangle
+# LeetCode 120. Triangle
 
 Medium
 
