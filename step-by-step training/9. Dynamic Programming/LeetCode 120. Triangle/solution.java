@@ -1,3 +1,4 @@
+//solution1: top-down
 public class Solution{
     public int minimumTotal(int[][] triangle){
         if(triangle == null || triangle.length == 0 || tirangle[0] == null || tirangle[0].length == 0){
