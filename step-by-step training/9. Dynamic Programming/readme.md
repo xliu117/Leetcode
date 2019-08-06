@@ -1,7 +1,7 @@
 
 # 9. Dynamic Programming
 
-Triangle
+[Triangle](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%20120.%20Triangle)
 
 ## 什么情况下使用动态规划？
 
