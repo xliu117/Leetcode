@@ -26,7 +26,7 @@
 
 [Unique Path II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2063.%20Unique%20Paths%20II)
 
-Climbing Stairs
+[Climbing Stairs](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2070.%20Climbing%20Stairs)
 
 Jump Game // 这个题最优方法是使用greedy, DP复杂度较高
 
