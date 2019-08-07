@@ -24,7 +24,7 @@
 
 [Unique Path](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2062.%20Unique%20Paths)
 
-Unique Path II
+[Unique Path II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2063.%20Unique%20Paths%20II)
 
 Climbing Stairs
 
