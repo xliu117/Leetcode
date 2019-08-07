@@ -19,3 +19,15 @@ Input: [3,2,1,0,4]
 Output: false
 Explanation: You will always arrive at index 3 no matter what. Its maximum
              jump length is 0, which makes it impossible to reach the last index.
+
+
+
+思路
+
+动态规划
+
+初始值f[0]设置为true，表示可达。遍历左右点。当前点是否可达取决于之前所有点中可达的点加上他们能跳到的地方。时间复杂度O(n2)，空间复杂度O(n)。
+
+贪心法
+
+维护一个能达到的最远的值。每经过一个点，比较一下这个点可以到的值和这个最远值，并更新。最后判断最远值是不是超过了最后一个index。时间复杂度O(n)，空间复杂度O(1)。
