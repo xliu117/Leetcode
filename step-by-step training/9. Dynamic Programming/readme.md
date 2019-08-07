@@ -28,7 +28,7 @@
 
 [Climbing Stairs](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2070.%20Climbing%20Stairs)
 
-Jump Game // 这个题最优方法是使用greedy, DP复杂度较高
+[Jump Game // 这个题最优方法是使用greedy, DP复杂度较高](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2055.%20Jump%20Game)
 
 Jump Game II
 
