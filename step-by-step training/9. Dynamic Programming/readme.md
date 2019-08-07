@@ -19,7 +19,8 @@
 
 ### 坐标型DP：
 
-Minimum Path Sum // 初始化二维坐标矩阵动态规划时， 初始化第0行第0列
+[Minimum Path Sum // 初始化二维坐标矩阵动态规划时， 初始化第0行第0列](
+ 
 
 Unique Path
 
