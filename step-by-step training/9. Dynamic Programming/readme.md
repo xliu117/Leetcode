@@ -22,7 +22,7 @@
 [Minimum Path Sum // 初始化二维坐标矩阵动态规划时， 初始化第0行第0列](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2064.%20Minimum%20Path%20Sum)
  
 
-Unique Path
+[Unique Path](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2062.%20Unique%20Paths)
 
 Unique Path II
 
