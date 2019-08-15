@@ -1,4 +1,4 @@
-# 300. Longest Increasing Subsequence
+# LeetCode 300. Longest Increasing Subsequence
 
 Medium
 
@@ -20,3 +20,11 @@ There may be more than one LIS combination, it is only necessary for you to retu
 Your algorithm should run in O(n2) complexity.
 
 Follow up: Could you improve it to O(n log n) time complexity?
+
+# Thoughts:
+
+## Ideas:
+
+## Summary:
+
+## Complexity Analysis:
