@@ -66,6 +66,6 @@ if nums[i+1] is no larger than any elements before it, dp[i+1] = 0 + 1. the long
  we use an new dp array of length n = nums.length, so the space complexity is O(n).
  
  
- ## Possible optimization methods:
+ ## 4. Possible optimization methods:
  
  
