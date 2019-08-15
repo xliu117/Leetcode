@@ -26,11 +26,22 @@ Follow up: Could you improve it to O(n log n) time complexity?
 ## 1.Idea
 
 1. The normal DP solution's idea:
+
 First initializing a dp array, dp[i] represents the longest increasing subsequence number ending by nums[i].
 So in order to get the value of dp[i+1], we need to compare nums[i+1] with the each element j (0 <= j <= i) before it. 
-if nums[i+1] > nums[j], then 
+if nums[i+1] > nums[j], then the element nums[i+1] can be appended after nums[j] forming the increasing subsequence.
+We need to find out all the possible subsequences and pick the lonest one + 1.
+if nums[i+1] is no larger than any elements before it, dp[i+1] = 0 + 1. the longest increasing subsequence start from itself. 
 
 
 ## 2.Algorithm:
 
+1. The normal DP solution's idea:
+
+   1. consider corner cases, process properly
+   
+   2.initialize a dp array with length equal to nums' length
+   
+   3.
+   
 ## 3.Complexity Analysis:
