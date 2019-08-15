@@ -21,10 +21,18 @@ Your algorithm should run in O(n2) complexity.
 
 Follow up: Could you improve it to O(n log n) time complexity?
 
-# Thoughts:
+# Summary:
+
+
+
 
 ## Ideas:
 
-## Summary:
+1. The brute force idea is to find all the solutions and compare to the maximum.
+
+2. The normal DP solution's idea:
+
+
+## Algorithm:
 
 ## Complexity Analysis:
