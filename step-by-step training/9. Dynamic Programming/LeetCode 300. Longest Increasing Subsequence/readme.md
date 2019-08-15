@@ -36,12 +36,31 @@ if nums[i+1] is no larger than any elements before it, dp[i+1] = 0 + 1. the long
 
 ## 2.Algorithm:
 
-1. The normal DP solution's idea:
+1. The normal DP solution's pseudo code:
 
    1. consider corner cases, process properly
    
-   2.initialize a dp array with length equal to nums' length
+   2. initialize a dp array with length equal to nums' length, and maximum.
    
-   3.
+   3. for(int i = 1; i < nums.length; i++){
+        intitialize maxvalue; //for comparing each appended subsequence's length
+        for(int j = 0; j < i; j++){
+           if (nums[i] > nums[j]){//which means element nums[i] can be appended after nums[j]
+                maxvalue = Math.max(maxvalue, dp[j]);
+            }
+         }
+         
+         dp[i] = maxvalue + 1;
+         maximum = Math.max(maximum, dp[i]); //after each j loop, compare the result to find out the longest subsequence ending at nums[i] 
+            
+      }
+      
+    4. return the maximum.
    
 ## 3.Complexity Analysis:
+ Time:
+ We can see at the step 3 of the pseudo code, there are two for loops traversing the length of the nums array.
+  so the time complexity is O(n^2)
+  
+ Space:
+ we use an new dp array of length n = nums.length, so the space complexity is O(n).
