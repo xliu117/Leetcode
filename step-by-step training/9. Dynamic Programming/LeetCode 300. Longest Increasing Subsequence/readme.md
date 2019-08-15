@@ -92,4 +92,5 @@ if nums[i+1] is no larger than any elements before it, dp[i+1] = 0 + 1. the long
      }
  3. return the size result.    
  
- 
+ Complexity analysis:
+ the total time: O(nlogn), the first for loop go through the whole nums array takes O(n), inside it, the binary search takes O(logn), so the total is O(nlogn).
