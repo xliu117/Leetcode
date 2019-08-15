@@ -60,7 +60,12 @@ if nums[i+1] is no larger than any elements before it, dp[i+1] = 0 + 1. the long
 ## 3.Complexity Analysis:
  Time:
  We can see at the step 3 of the pseudo code, there are two for loops traversing the length of the nums array.
-  so the time complexity is O(n^2)
+  so the time complexity is O(n^2).
   
  Space:
  we use an new dp array of length n = nums.length, so the space complexity is O(n).
+ 
+ 
+ ## Possible optimization methods:
+ 
+ 
