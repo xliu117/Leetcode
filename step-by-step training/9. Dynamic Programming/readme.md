@@ -35,7 +35,7 @@ Jump Game II
 
 ### 接龙型DP(属于“坐标型”DP的一种）
 
-Longest Increasing Subsequence
+[Longest Increasing Subsequence](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%20300.%20Longest%20Increasing%20Subsequence)
 
 Russian Doll Envelopes
 
