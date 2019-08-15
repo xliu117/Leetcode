@@ -67,5 +67,29 @@ if nums[i+1] is no larger than any elements before it, dp[i+1] = 0 + 1. the long
  
  
  ## 4. Possible optimization methods:
+ Thinking about another form of dp, initialize an array tails to store the smallest tail of all increasing subsequences wih length i+1 in tails[i]. 
+ The tails array is sorted(increasing), so the first thought comes up to us is using binary search.
+ Doing binary search to fastly find the index which needs to be updated.
+ 
+ if x > all tails, append it to tails[i+1]
+ if tails[i-1] < x <= tails[i], update tails[i]
+ 
+ Thus, the pseudo code is:
+ 1. initialize array named tails and int size.
+ 2. //use a for loop to go through the nums array
+    for(int x : nums){
+       int i = 0; int j = size;
+       //do binary search to find the index i 
+         while(i != j){
+             int m = (i+j)/2;
+             if(tails[m] < x)
+                 i = m + 1;
+              else
+                 j = m;
+         }      
+         tails[i] = x;
+         if(i == size) ++size;
+     }
+ 3. return the size result.    
  
  
