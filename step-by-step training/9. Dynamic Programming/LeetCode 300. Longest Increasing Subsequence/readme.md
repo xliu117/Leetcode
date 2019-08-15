@@ -23,16 +23,14 @@ Follow up: Could you improve it to O(n log n) time complexity?
 
 # Summary:
 
+## 1.Idea
+
+1. The normal DP solution's idea:
+First initializing a dp array, dp[i] represents the longest increasing subsequence number ending by nums[i].
+So in order to get the value of dp[i+1], we need to compare nums[i+1] with the each element j (0 <= j <= i) before it. 
+if nums[i+1] > nums[j], then 
 
 
+## 2.Algorithm:
 
-## Ideas:
-
-1. The brute force idea is to find all the solutions and compare to the maximum.
-
-2. The normal DP solution's idea:
-
-
-## Algorithm:
-
-## Complexity Analysis:
+## 3.Complexity Analysis:
