@@ -26,3 +26,8 @@ Output: "10101"
 2. don't forget the last step:  "if (carry != 0) sb.append(carry);" should consider the last carry value.
 
 3. it's good that you have the basic idea about how to solve this problem(use carry, reverse stringbuilder), but you should practise more to writhe the clean and simple code.
+
+### Comlexity analysis
+
+Time O(n) go throung string a and b
+space O(n)  extra space is used to build tringbuilder
