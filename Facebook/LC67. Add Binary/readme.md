@@ -15,3 +15,14 @@ Example 2:
 
 Input: a = "1010", b = "1011"
 Output: "10101"
+
+
+### Summary
+
+## Thoughts
+
+1. rememmber to use: a.charAt(i--) - '0' as a smarter way to conver character to integer.
+
+2. don't forget the last step:  "if (carry != 0) sb.append(carry);" should consider the last carry value.
+
+3. it's good that you have the basic idea about how to solve this problem(use carry, reverse stringbuilder), but you should practise more to writhe the clean and simple code.
