@@ -37,7 +37,7 @@ Jump Game II
 
 [Longest Increasing Subsequence](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%20300.%20Longest%20Increasing%20Subsequence)
 
-Russian Doll Envelopes
+[Russian Doll Envelopes](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%20354.%20Russian%20Doll%20Envelops)
 
 Largest Divisible Subset
 
