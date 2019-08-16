@@ -17,9 +17,9 @@ Input: a = "1010", b = "1011"
 Output: "10101"
 
 
-### Summary
+## Summary
 
-## Thoughts
+### Thoughts
 
 1. rememmber to use: a.charAt(i--) - '0' as a smarter way to conver character to integer.
 
