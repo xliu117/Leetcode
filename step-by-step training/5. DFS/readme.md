@@ -20,7 +20,7 @@
 
 [9.N-Queens](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/LeetCode%2051.%20N-Queens)
 
-Palindrome Permutation
+[Palindrome Permutation](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/5.%20DFS/Leetcode%20266.%20Palindrome%20Permutation)
 
 Palindrome Permutation II
 
