@@ -7,7 +7,7 @@
 
 3. [LC953. Verifying an Alien Dictionary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC953.%20Verifying%20an%20Alien%20Dictionary)
 
-4. LC67. Add Binary
+4. [LC67. Add Binary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC67.%20Add%20Binary)
 
 5. LC297. Serialize and Deserialize Binary Tree
 
