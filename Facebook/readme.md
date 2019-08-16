@@ -5,7 +5,7 @@
 
 2. LC273. Integer to English Words
 
-3. LC953. Verifying an Alien Dictionary
+3. [LC953. Verifying an Alien Dictionary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC953.%20Verifying%20an%20Alien%20Dictionary)
 
 4. LC67. Add Binary
 
