@@ -3,7 +3,7 @@
 
 1. LC301. Remove Invalid Parentheses
 
-2. LC273. Integer to English Words
+2. [LC273. Integer to English Words](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC273.%20Integer%20to%20English%20Words)
 
 3. [LC953. Verifying an Alien Dictionary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC953.%20Verifying%20an%20Alien%20Dictionary)
 
