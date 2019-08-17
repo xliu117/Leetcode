@@ -41,7 +41,7 @@ The subquestion is to judge if two strings are anagram, which is [LC242.Valid An
 
 So the brute force method is let a sliding window go through the string s, for each substring which length equals to p's length, run the subquestion to see if they are valid anagram, if it is true, add the starting index into result list.
 
-## Complexity:
+### Complexity:
 
 time: O(n)*O(c) n is the length of string s, c is the length of string p.
 space :O(1)
