@@ -21,3 +21,14 @@ Example 4:
 
 Input: 1234567891
 Output: "One Billion Two Hundred Thirty Four Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety One"
+
+
+
+## Summary
+
+### Thoughts:
+
+1. use three string array to save the Less_than_twenty, TENS, THOUSANDS. each index corresponds to each string.
+
+2. Divide and conquer. solve it three by three.
+
