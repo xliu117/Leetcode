@@ -42,3 +42,6 @@
 20. [LC438. Find All Anagrams in a String](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC438.%20Find%20All%20Anagrams%20in%20a%20String)
 
 21. LC282.Expression Add Operators
+
+
+[LC825. Friends Of Appropriate Ages](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC825.%20Friends%20Of%20Appropriate%20Ages)
