@@ -50,5 +50,6 @@ first.left = last.
 ### Complexity
 
 time O(n) it traverse all the nodes in the tree one time
+
 space O(1)
  
