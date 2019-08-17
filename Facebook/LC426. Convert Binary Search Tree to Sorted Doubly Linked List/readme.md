@@ -1,4 +1,4 @@
-# 426. Convert Binary Search Tree to Sorted Doubly Linked List
+# [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
 
 Medium
 
