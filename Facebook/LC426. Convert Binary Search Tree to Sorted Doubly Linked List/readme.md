@@ -23,4 +23,32 @@ Specifically, we want to do the transformation in place. After the transformatio
 
 The figure below shows the transformed BST. The solid line indicates the successor relationship, while the dashed line means the predecessor relationship.
 
+ ## Summary
+ 
+ ### Thoughts:
+ 
+1. In this problem, we use DFS + recursion to implement the inorder traversal on the binary search tree(left - node - right).
+
+//left
+helper(node.left)
+
+//node
+the things we do for node
+
+//right
+helper(node.right)
+
+2. initialize two nodes: Node fist = null, last = null.
+
+when DFS reachs the left-down node, first = node, last = node. when it's traversing in the tree, update Node last, connect each node in the tree by last.right = node, node.left = last, last = node.
+
+3. when finish the traversal, connect the node last and first to make linked list to a circle
+
+last.right = first;
+first.left = last.
+
+### Complexity
+
+time O(n) it traverse all the nodes in the tree one time
+space O(1)
  
