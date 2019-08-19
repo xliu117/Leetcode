@@ -33,7 +33,7 @@
 
 16. LC621. Task Scheduler
 
-17. LC523. Continuous Subarray Sum
+17. [LC523. Continuous Subarray Sum](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC523.%20Continuous%20Subarray%20Sum)
 
 18. LC76. Minimum Window Substring
 
