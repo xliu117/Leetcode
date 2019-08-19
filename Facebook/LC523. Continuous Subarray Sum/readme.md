@@ -24,11 +24,14 @@ Explanation: Because [23, 2, 6, 4, 7] is an continuous subarray of size 5 and su
 
 ### Thoghts:
 
-Solution1: brute force: 
+#### Solution1: brute force: 
 
 two for loops for start_index and end_index of a selected array, and then another for loops go though the selected array to calculate the sum. 
 
 time complexity : O(n^3)
 space: O(1)
 
-Solution2: accumulate sum:
+#### Solution2: prefix sum:
+
+
+#### Solution3: hashmap
