@@ -52,7 +52,7 @@ we use a hashmap to save the cumulative sums upto ith index. when the sum is not
 
 our goal is to find that if sum1 = cumulative sum upto ith index, sum2 = cumulative sum upto jth index.
 
-if there is sum1 + n* k = sum2. then we can conclude that the subarray between nums[i+1:j] = n*k. return true.
+if there is sum1 + n* k == sum2. then we can conclude that the subarray between nums[i+1:j] == n*k. return true.
 
 else return false.
 
