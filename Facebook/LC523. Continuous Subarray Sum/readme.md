@@ -22,7 +22,7 @@ Explanation: Because [23, 2, 6, 4, 7] is an continuous subarray of size 5 and su
 
 ## Summary
 
-### Thoghts:
+### Thoughts:
 
 #### Solution1: brute force: 
 
