@@ -21,7 +21,7 @@
 
 10. LC721. Accounts Merge
 
-11. LC125. Valid Palindrome
+11. [LC125. Valid Palindrome](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC125.%20Valid%20Palindrome)
 
 12. [LC426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List)
 
