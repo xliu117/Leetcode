@@ -78,3 +78,30 @@ Output:
   [8,2],
   [7]
 ]
+
+
+### Summary:
+
+We solve this problem using BFS
+
+use HashMap<Integer, ArrayList<Integer>> to save the node value for each col.
+   
+use queue<TreeNode> to do the BFS.
+
+use Queue<Integer> to save the cols value.
+
+use min, max as the boundary of cols.
+
+inside while loop:
+
+  1. each time we poll a treenode, we poll a col correspondingly. if map doesn't containskey(col) add the new coll value to the hashmap.
+   
+   add the node value to the key col in the hashmap.
+   
+  2. traverse to node.left and node.right. add node to queue and add (col -1) or (col +1) to queue. update the min, max information.
+   
+outside while loop:
+
+output the nodes value in each col.
+
+return the result.
