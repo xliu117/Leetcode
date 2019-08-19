@@ -31,4 +31,4 @@ if(s.charAt(i) != s.charAt(j)) then we need to check two ways: delete the i inde
 
 time complexity O(n)
 
-space complexity O(1)
+space complexity O(1) only poninters were stored in the memory
