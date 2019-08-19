@@ -51,7 +51,7 @@
 
 25. LC269. Allien Dictionary
 
-26. LC986. Interval List Intersections
+26. [LC986. Interval List Intersections](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC986.%20Interval%20List%20Intersections)
 
 27. LC314. Binary Tree Vertical Order Traversal
 
