@@ -43,5 +43,61 @@
 
 21. LC282.Expression Add Operators
 
+22. LC785.Is Graph Bipartite?
 
-[LC825. Friends Of Appropriate Ages](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC825.%20Friends%20Of%20Appropriate%20Ages)
+23. LC438.Find All Anagrams in a String
+
+24. LC173.Binary Search Tree Iterator
+
+25. LC269. Allien Dictionary
+
+26. LC986. Interval List Intersections
+
+27. LC314. Binary Tree Vertical Order Traversal
+
+28. LC304. Range Sum Query 2D - Immutable
+
+29. LC896. Monotomic Array
+
+30. LC349. Intersection of Two Arrays
+
+31. LC211. Add and Search Word - Data structure design
+
+32. LC340. Longest Substring with At Most K Distinct Characters
+
+33. LC124. Binary Tree Maixmum Path Sum
+
+34. [LC825. Friends Of Appropriate Ages](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC825.%20Friends%20Of%20Appropriate%20Ages)
+
+35. LC15. 3Sum
+
+36. LC31. Next Permutation
+
+37. LC98. Validate Binary Search Tree
+
+38. LC199. Binary Tree Right Side View
+
+
+39. LC56. Merge Intervals
+
+40. LC133. Clone Graph
+
+41. LC157. Read N Characters Given Read4
+
+42. LC23. Merge k Sorted Lists
+
+43. LC543. Diameter of Binary Tree
+ 
+44. LC317. Shortest Distance from All Buildings
+
+45. LC632. Smallest Range Covering Elements from K Lists
+
+46. LC350. Intersection of Two Arrays II
+
+47. LC161. One Edit Distance
+
+48. LC88. Merge Sorted Array
+
+49. LC215. Kth Largest Element in an Array
+
+50. LC311. Sparse Matrix Multiplication
