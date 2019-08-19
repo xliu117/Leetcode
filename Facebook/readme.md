@@ -53,7 +53,7 @@
 
 26. [LC986. Interval List Intersections](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC986.%20Interval%20List%20Intersections)
 
-27. LC314. Binary Tree Vertical Order Traversal
+27. [LC314. Binary Tree Vertical Order Traversal](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC314.%20Binary%20Tree%20Vertical%20Order%20Traversal)
 
 28. LC304. Range Sum Query 2D - Immutable
 
