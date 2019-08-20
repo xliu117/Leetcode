@@ -100,3 +100,9 @@
 49. LC215. Kth Largest Element in an Array
 
 50. LC311. Sparse Matrix Multiplication
+
+51. LC215. Kth Largest Element in an Array
+
+52. LC10. Regular Expression Matching
+
+53. [LC958. Check Completeness of a Binary Tree](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC958.%20Check%20Completeness%20of%20a%20Binary%20Tree)
