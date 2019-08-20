@@ -93,7 +93,7 @@
 
 46. LC350. Intersection of Two Arrays II
 
-47. LC161. One Edit Distance
+47. [LC161. One Edit Distance](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC161.%20One%20Edit%20Distance)
 
 48. LC88. Merge Sorted Array
 
