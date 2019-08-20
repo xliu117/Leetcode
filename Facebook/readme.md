@@ -57,7 +57,7 @@
 
 28. LC304. Range Sum Query 2D - Immutable
 
-29. LC896. Monotomic Array
+29. [LC896. Monotonic Array](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC896.%20Monotonic%20Array)
 
 30. LC349. Intersection of Two Arrays
 
