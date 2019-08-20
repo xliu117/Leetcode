@@ -33,10 +33,15 @@ Knowing that there can only be one edit distance. so there are some situations:
 
 1. when |length_s - length_t| > 1, it should be false.
 
-2. when length_s == length_t, there must be only one difference of character s.charAt(i) != s.charAt(j). we need to check s.substring(i+1) == t.substring(i+1)
+we use one pass pointer to go through string s. considering if(s.charAt(i) != t.charAt(i)
+
+2. when length_s == length_t, there must be only one difference of character s.charAt(i) != t.charAt(i). we need to check s.substring(i+1) == t.substring(i+1)
 
 3. when length_s < length_t (or if length_s > length_t, we could swift s and t), there must be only one edit as delete operation. so when s.charAt(i) != t.charAt(i), we need to check the remaining substring s.substring(i) == t.substring(i+1).
 
+4.if we can go through the whole string s and can not find difference. 
+
+return (len_s + 1 == len_t);//if there is no difference on len_s distance, the strings are one edit away only if t has one more character
 
 ### complexity
 
