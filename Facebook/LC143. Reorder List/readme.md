@@ -14,3 +14,21 @@ Given 1->2->3->4, reorder it to 1->4->2->3.
 Example 2:
 
 Given 1->2->3->4->5, reorder it to 1->5->2->4->3.
+
+
+## Summary
+
+We can take three sub-steps to solve this problem:
+
+1: find the middle position of the whole list( use two pointers fast and slow);
+
+2: reverse the seconde half list( do the reverse list);
+
+3: merge the two lists together.
+
+
+### complexity
+
+time O(n)
+
+space O(1) inplace operation
