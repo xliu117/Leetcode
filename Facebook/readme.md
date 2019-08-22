@@ -109,3 +109,6 @@
 
 
 [LC143. Reorder List](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC143.%20Reorder%20List)
+
+
+[536. Construct Binary Tree from String]
