@@ -108,4 +108,4 @@
 53. [LC958. Check Completeness of a Binary Tree](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC958.%20Check%20Completeness%20of%20a%20Binary%20Tree)
 
 
-LC143. Reorder List
+[LC143. Reorder List](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC143.%20Reorder%20List)
