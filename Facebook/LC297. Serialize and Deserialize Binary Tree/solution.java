@@ -7,10 +7,10 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
- 
- 
- 
- 
+
+
+
+
 public class Codec {
     public String serialize(TreeNode root) {
         if (root == null) return "";
@@ -27,6 +27,7 @@ public class Codec {
             q.add(node.left);
             q.add(node.right);
         }
+        //res = res.deleteCharAt(res.length() - 1) ;
         return res.toString();
     }
 
@@ -38,12 +39,12 @@ public class Codec {
         q.add(root);
         for (int i = 1; i < values.length; i++) {
             TreeNode parent = q.poll();
-            if (!values[i].equals("n")) {
+            if (!values[i].equals("n")) {//left child
                 TreeNode left = new TreeNode(Integer.parseInt(values[i]));
                 parent.left = left;
                 q.add(left);
             }
-            if (!values[++i].equals("n")) {
+            if (!values[++i].equals("n")) {//right child
                 TreeNode right = new TreeNode(Integer.parseInt(values[i]));
                 parent.right = right;
                 q.add(right);
@@ -56,3 +57,9 @@ public class Codec {
         
         
        
+
+
+
+// Your Codec object will be instantiated and called as such:
+// Codec codec = new Codec();
+// codec.deserialize(codec.serialize(root));
