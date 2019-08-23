@@ -13,7 +13,7 @@
 
 6. LC253. Meeting Rooms II
 
-7. LC973. K Closest Points to Origin
+7. [LC973. K Closest Points to Origin](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC973.%20K%20Closest%20Points%20to%20Origin)
 
 8. LC238. Prodct of Array Except Self
 
