@@ -20,21 +20,21 @@ public class Codec {
         while (!q.isEmpty()) {
             TreeNode node = q.poll();
             if (node == null) {
-                res.append("n ");
+                res.append("n,");
                 continue;
             }
-            res.append(node.val + " ");
+            res.append(node.val + ",");
             q.add(node.left);
             q.add(node.right);
         }
-        //res = res.deleteCharAt(res.length() - 1) ;
+        res = res.deleteCharAt(res.length() - 1) ;
         return res.toString();
     }
 
     public TreeNode deserialize(String data) {
         if (data == "") return null;
         Queue<TreeNode> q = new LinkedList<>();
-        String[] values = data.split(" ");
+        String[] values = data.split(",");
         TreeNode root = new TreeNode(Integer.parseInt(values[0]));
         q.add(root);
         for (int i = 1; i < values.length; i++) {
