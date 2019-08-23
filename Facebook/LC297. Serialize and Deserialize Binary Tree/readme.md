@@ -26,11 +26,11 @@ Note: Do not use class member/global/static variables to store states. Your seri
 
 ## Summary
 
-### idea
+#### idea
 
 For this question, we can use BFS to solve it level by level. for serialize, we use a queue to save the nodes we traversed. 
 
-### algorithm
+#### algorithm-serialize
 
 1. corner case: if root == null, return "";
 
@@ -57,3 +57,25 @@ StringBuilder res = new StringBuilder();
     }
     
 3.3 output res.toString();
+
+
+#### algorithm-deserialize
+
+for deserialize, the first step is to transfer the string to string arrays(split into subsections), and then go throught the string array.
+
+1. corner case: if data=="" return null;
+
+2. initialize a Queue and String array. add transform the string into string array based on the split ",".
+
+   Queue<TreeNode> q = new LinkedList<>();
+ 
+   String[] values = data.split(",");
+   
+3. turn the string array to the tree structure.
+
+#### complexity
+
+time: O(n) we traverse each node once.
+
+space: O(n) we have to keep the entire tree 
+   
