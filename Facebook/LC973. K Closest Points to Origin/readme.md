@@ -32,3 +32,32 @@ Note:
 1 <= K <= points.length <= 10000
 -10000 < points[i][0] < 10000
 -10000 < points[i][1] < 10000
+
+
+## Summary
+
+### Solution1: Sorting
+
+#### idea:
+
+we can calculate each point's distance to the origin. and sort them to find the closest k points;
+
+#### algorithm:
+
+1. for loop go through all the points, calculate the distance. O(n).
+
+2. sorting O(nlogn)
+
+3. initialize int[][] ans = new int[K][2]
+
+4. go through all the points again, if the distance points[i] <= distK, add it to the answer. O(n)
+
+5. return the answer.
+
+#### analysis:
+
+time O(nlogn) sorting takes O(nlogn)
+
+space O(n)
+
+
