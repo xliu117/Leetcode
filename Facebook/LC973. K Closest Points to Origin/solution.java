@@ -1,3 +1,5 @@
+/***
+//solution1: sorting
 class Solution {
     public int[][] kClosest(int[][] points, int K) {
         int len = points.length;
@@ -28,4 +30,48 @@ class Solution {
 //time O(nlogn)
 //space O(n)
 
+*/
 
+
+//solution2: quicksort
+class Solution{
+    public int[][] kClosest(int[][] points, int K){
+        int len = points.length;
+        int left = 0;
+        int right = len - 1;
+        while(left <= right){
+            int mid = helper(points, left, right);
+            if(mid == K) break;
+            if(mid < K){
+                left = mid + 1;
+            }else{
+                right = mid - 1;
+            }
+        }
+        return Arrays.copyOfRange(points,0,K);
+    }
+    
+    private int helper(int[][] nums, int left, int right){
+        int[] pivot = nums[left];
+        while(left < right){
+            while(left < right && compare(nums[right], pivot) >=0) {
+                right--;
+            }
+            nums[left] = nums[right];
+            while(left < right && compare(nums[left], pivot) <= 0) {
+                left ++;
+            }
+            nums[right] = nums[left];
+        }
+        nums[left] = pivot;
+        return left;
+    }
+    
+    private int compare(int[] p1, int[] p2){
+        return p1[0]*p1[0] + p1[1]*p1[1] - p2[0]*p2[0] - p2[1]*p2[1];
+    }
+}
+ 
+
+ 
+ 
