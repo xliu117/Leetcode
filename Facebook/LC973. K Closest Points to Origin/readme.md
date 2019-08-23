@@ -71,3 +71,10 @@ then compare the pivot with K, if pivot == K, then the elements before the pivot
 #### complexity
 
 the quicksort average time O(n)
+
+
+### Solution3: heap
+
+use a max-heap to store K elements, each time there is an i-th new input which i > K, insert it into heap and pop out the largest one. 
+
+time O(NlogK)
