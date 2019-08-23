@@ -9,7 +9,7 @@
 
 4. [LC67. Add Binary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC67.%20Add%20Binary)
 
-5. LC297. Serialize and Deserialize Binary Tree
+5. [LC297. Serialize and Deserialize Binary Tree](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 
 6. LC253. Meeting Rooms II
 
