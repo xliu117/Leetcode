@@ -60,4 +60,14 @@ time O(nlogn) sorting takes O(nlogn)
 
 space O(n)
 
+### Solution2: QuickSort
 
+#### idea:
+
+QuickSork can take O(n) average time. we choose a pivot and sort the element smaller than pivot coming to the left and put the element larger than the pivot coming to the right.
+
+then compare the pivot with K, if pivot == K, then the elements before the pivot is the answer. if pivot < K, we need to choose another pivot on the right side, if pivot > K, we need to choose another pivot on the left. till we can get pivot == K in the end.
+
+#### complexity
+
+the quicksort average time O(n)
