@@ -17,7 +17,7 @@
 
 8. LC238. Prodct of Array Except Self
 
-9. LC560. Subarray Sum Equals K
+9. [LC560. Subarray Sum Equals K](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC560.%20Subarray%20Sum%20Equals%20K)
 
 10. LC721. Accounts Merge
 
