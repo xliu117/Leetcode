@@ -25,7 +25,7 @@
 
 12. [LC426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List)
 
-13. LC1. Two Sum
+13. [LC1. Two Sum]
 
 14. LC158. Read N Characters Given Read4 II - Call multiple times
 
