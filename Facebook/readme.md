@@ -95,7 +95,7 @@
 
 47. [LC161. One Edit Distance](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC161.%20One%20Edit%20Distance)
 
-48. LC88. Merge Sorted Array
+48. [LC88. Merge Sorted Array](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC88.%20Merge%20Sorted%20Array)
 
 49. LC215. Kth Largest Element in an Array
 
