@@ -60,7 +60,7 @@ this problem can be solved as graph problem, using BFS to do topological sorting
 
 2. initialize graph and indegreeHashMap.
 
-3. go throught the string array with every two adjacent words. Build the graph and update indegree information once we find the first different characters in two adjacent words.
+3. go throught the string array with every two adjacent words. Build the graph and update indegree information once we find the first different characters in two adjacent words char1 -> char2.
 
 4. use BFS to do topological sorting.
 
