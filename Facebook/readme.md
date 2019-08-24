@@ -49,7 +49,7 @@
 
 24. LC173.Binary Search Tree Iterator
 
-25. LC269. Allien Dictionary
+25. [LC269. Allien Dictionary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC269.%20Alien%20Dictionary)
 
 26. [LC986. Interval List Intersections](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC986.%20Interval%20List%20Intersections)
 
