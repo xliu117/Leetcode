@@ -53,3 +53,29 @@ There may be multiple valid order of letters, return any one of them is fine.
 #### idea
 
 this problem can be solved as graph problem, using BFS to do topological sorting find the order.
+
+#### algorithm
+
+1. consider the corner cases.
+
+2. initialize graph and indegreeHashMap.
+
+3. go throught the string array with every two adjacent words. Build the graph and update indegree information once we find the first different characters in two adjacent words.
+
+4. use BFS to do topological sorting.
+
+   4.1 use a queue to save all the nodes with indegree == 0.
+   
+   4.2 BFS traversal
+   
+   4.3 check the valid: if(sb.length() != inDegreeMap.size()) there must be cycle, then it is invalid, return "".
+   
+   4.4 return output string.
+   
+#### complexity
+
+time O(n)
+
+space O(n)
+   
+   
