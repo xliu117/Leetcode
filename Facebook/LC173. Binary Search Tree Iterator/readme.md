@@ -60,7 +60,7 @@ we can use the stack to do the inorder traversal at realtime.
 
 2. build a helper function to get the leftmostnode starting from the root. for any subtree of any root, the leftmost node of the root is the smallest node in the subtree.
 
-3. build .next() function by firstly do stack.push() to get the upmost node. and if the node.right != null, then put the leftmostnode of the node.right to the stack as the next larger node. if the node.right == null, then do not need to do anything since the next larger node is the stack.peek().
+3. build .next() function by firstly do stack.push() to get the upmost node. and if the node.right != null, then call helper function on node.right to put the leftmostnode of the node.right to the stack as the next larger node. if the node.right == null, then do not need to do anything since the next larger node is the stack.peek().
 
 notice that for each iteration, we always find the next node who is just the smallest node larger than the node right now on the top of stack.
 
