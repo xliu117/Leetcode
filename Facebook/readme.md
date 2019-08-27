@@ -47,7 +47,7 @@
 
 23. LC438.Find All Anagrams in a String
 
-24. LC173.Binary Search Tree Iterator
+24. [LC173.Binary Search Tree Iterator](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC173.%20Binary%20Search%20Tree%20Iterator)
 
 25. [LC269. Allien Dictionary](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC269.%20Alien%20Dictionary)
 
