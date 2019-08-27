@@ -54,5 +54,29 @@ Space Complexity O(n). we need an array of size n to store the tree nodes.
 
 #### Solution2: Stack
 
+we can use the stack to do the inorder traversal at realtime.
+
+1. initialize an empty stack.
+
+2. build a helper function to get the leftmostnode starting from the root. for any subtree of any root, the leftmost node of the root is the smallest node in the subtree.
+
+3. build .next() function by firstly do stack.push() to get the upmost node. and if the node.right != null, then put the leftmostnode of the node.right to the stack as the next larger node. if the node.right == null, then do not need to do anything since the next larger node is the stack.peek().
+
+notice that for each iteration, we always find the next node who is just the smallest node larger than the node right now on the top of stack.
+
+
+4. if the stack() is empty, which means there is no larger nodes than the node right now, than there is no next node. 
+
+Time complexity: 
+
+1. .hasNext() takes O(1) constant time to see whether if the stack is empty.
+
+2. .next(): pop the element from stack takes O(1) time. and the helper function _leftmostInorder() takes O(n) time in the worst case, we only call helper when the node.right != null. so the time is much less than N nodes. 
+
+so the average time complexity of .next() is O(1). not for every call, but for average it is O(1).
+
+Space complexity:
+
+O(h), h is the height of the tree. the customized stack at most have h nodes inside the stake.
 
 
