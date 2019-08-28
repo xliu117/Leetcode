@@ -65,7 +65,7 @@
 
 32. LC340. Longest Substring with At Most K Distinct Characters
 
-33. LC124. Binary Tree Maixmum Path Sum
+33. [LC124. Binary Tree Maixmum Path Sum](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC124.%20Binary%20Tree%20Maximum%20Path%20Sum)
 
 34. [LC825. Friends Of Appropriate Ages](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC825.%20Friends%20Of%20Appropriate%20Ages)
 
