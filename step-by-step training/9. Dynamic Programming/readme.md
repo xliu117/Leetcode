@@ -30,7 +30,7 @@
 
 [Jump Game // 这个题最优方法是使用greedy, DP复杂度较高](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2055.%20Jump%20Game)
 
-Jump Game II
+[Jump Game II](https://github.com/xliu117/Leetcode/tree/master/step-by-step%20training/9.%20Dynamic%20Programming/LeetCode%2045.%20Jump%20Game%20II)
 
 
 ### 接龙型DP(属于“坐标型”DP的一种）
