@@ -19,7 +19,7 @@ Note:
 
 You can assume that you can always reach the last index.
 
-### Summary-BFS
+### 1.Summary-BFS
 
 #### idea
 
@@ -56,7 +56,7 @@ time O(n) BFS traversal each element once.
 
 space O(1) only constant space are used.
 
-### Summary-DP
+### 2.Summary-DP
 
 this problem also can be solved as dynamic programming. using dp[i] to record the minimum step to get to i.
 
