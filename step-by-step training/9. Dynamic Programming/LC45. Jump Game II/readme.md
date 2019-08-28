@@ -63,3 +63,38 @@ this problem also can be solved as dynamic programming. using dp[i] to record th
 #### idea
 
 use a variable record each boundary value, and at the same time update the furthest it can get.
+
+#### algorithm
+
+1. initialize dp[], dp[0]=0; //dp[i] indicate the minimum step  to get to location i.
+
+2.
+
+        int curIndex = 0;
+        int curMax = 0;
+        int max = nums[0];//the furthest we can get right now.
+        
+3.
+
+        for(int i = 1; i < nums.length; i++){
+            curMax = Math.max(curMax, nums[i] + i);
+            
+            if(i<max){
+                dp[i] = dp[curIndex] + 1;
+            }else if (i == max){
+                dp[i] = dp[curIndex] + 1;
+                max = curMax;
+                curIndex = i;
+            }
+        }
+        
+4.
+
+        return dp[nums.length - 1];
+        
+        
+#### complexity 
+
+time O(n)
+
+space O(n)
