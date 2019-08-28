@@ -15,7 +15,7 @@
 
 7. [LC973. K Closest Points to Origin](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC973.%20K%20Closest%20Points%20to%20Origin)
 
-8. LC238. Prodct of Array Except Self
+8. [LC238. Prodct of Array Except Self](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC238.%20Product%20of%20Array%20Except%20Self)
 
 9. [LC560. Subarray Sum Equals K](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC560.%20Subarray%20Sum%20Equals%20K)
 
