@@ -69,7 +69,7 @@ then trace back one step:
                 robot.turnLeft();
                 
  if it can not move forward, always turnRight();
- then update the direation.
+ then update the direction.
  
  #### complexity:
  
