@@ -52,3 +52,29 @@ The robot's initial position will always be in an accessible cell.
 The initial direction of the robot will be facing up.
 All accessible cells are connected, which means the all cells marked as 1 will be accessible by the robot.
 Assume all four edges of the grid are all surrounded by wall.
+
+
+### Summary
+
+#### idea
+
+this problem can be solved by DFS/backtracking. using a hashset to save all the visied cells. if visited.contains(path) return. each time visited a new path, save the path to visited and robot.clean() to clean the cell.
+
+there are 4 different directions to consider. we need to cosider all the situations, if robot.move() is true, then we consider the new location in 4 directions  backtracking(robot, visited, nx, ny, arrow);
+then trace back one step:
+                robot.turnLeft();
+                robot.turnLeft();
+                robot.move();
+                robot.turnLeft();
+                robot.turnLeft();
+                
+ if it can not move forward, always turnRight();
+ then update the direation.
+ 
+ #### complexity:
+ 
+ time: O(4^(N-M)) 
+ 
+ space: O(N-M)
+ 
+ N is the total number of cells in the room and M is the total number of obstacle cells.
