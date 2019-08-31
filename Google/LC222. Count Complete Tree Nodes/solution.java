@@ -1,12 +1,7 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
+
+
+/***
+//solution1: my own thought! stupid!
 class Solution {
     public int countNodes(TreeNode root) {
         //bfs
@@ -39,3 +34,26 @@ class Solution {
         return total;
     }
 }
+
+//time O(n) still linear time
+***/
+
+
+/***
+//solution2:linear time recursion
+
+class Solution{
+    public int countNodes(TreeNode root){
+        return root != null ? 1 + countNodes(root.right) + countNodes(root.left) : 0;
+    }
+}
+
+//time O(n)
+//space: O(d) = O(logn) to keep the recursion stack, where d is a tree depth
+//but this method does not profit from the fact that the tree is a complete one.
+*/
+
+//solution3: Binary Search
+//use binary search to check nodes existence in the last level
+//complexity = O(log(2^d)) = O(d)
+
