@@ -53,3 +53,6 @@ except for the last level, for the 0-th level, it has 2^0 node, for the i-th lev
 so the total number of the tree is: number of nodes on the last level + 2^(level) -1;
 
 using binary search, instead of checking the existence of all 2^d possible leafs, one could use binary search and check log(2^d) = d leafs only.
+
+Time complexity : \mathcal{O}(d^2) = \mathcal{O}(log^2 N)=O(log 2N), where d is a tree depth.
+Space complexity : \mathcal{O}(1)O(1).
