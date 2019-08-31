@@ -21,3 +21,25 @@ Input:
 4  5 6
 
 Output: 6
+
+
+
+### Summary
+
+#### brute force O(n) time:
+use recursion to get intuitive method:
+
+class Solution{
+    public int countNodes(TreeNode root){
+        return root != null ? 1 + countNodes(root.right) + countNodes(root.left) : 0;
+    }
+}
+
+time complexity O(n), traverse all nodes
+
+space complexity O(h), h is the recursion stack height = O(logn) (binary complete tree)
+
+
+
+#### binary search
+
