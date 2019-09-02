@@ -1,7 +1,7 @@
-
-ID	Title
-1	Two Sum
-3	Longest Substring Without Repeating Characters
+ 
+ID	| Title  
+1	| Two Sum  
+3	|Longest Substring Without Repeating Characters 
 4	Median of Two Sorted Arrays
 5	Longest Palindromic Substring
 7	Reverse Integer
