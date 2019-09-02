@@ -1,4 +1,4 @@
-基础 |     |		 
+基础 |   Title  | Comments		 
 ---  | --- | ---
 27	|Remove Element	|
 26	|Remove Duplicates from Sorted Array	|
