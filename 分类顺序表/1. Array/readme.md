@@ -4,7 +4,7 @@
 26	|Remove Duplicates from Sorted Array	|
 80	|Remove Duplicates from Sorted Array II	|
 277	|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)	|
-189	|Rotate Array	|
+189	|[Rotate Array](https://leetcode.com/problems/rotate-array/)	|
 41	|First Missing Positive	|
 299	|Bulls and Cows	|
 134	|Gas Station|	
