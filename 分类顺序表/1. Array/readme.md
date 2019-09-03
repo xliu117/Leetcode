@@ -7,7 +7,7 @@
 189	|[Rotate Array](https://leetcode.com/problems/rotate-array/)	|
 41	|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)	|
 299	|Bulls and Cows	|
-134	|Gas Station|	
+134	|[Gas Station](https://leetcode.com/problems/gas-station/)|	
 118	|Pascal's Triangle|	很少考
 119	|Pascal's Triangle II	|很少考
 169	|Majority Element	|很少考
