@@ -25,7 +25,7 @@ NOTE: input types have been changed on April 15, 2019. Please reset to default c
 
 we treat the start time and end time individually, use two arrays to save the start time and end time respectively. set two pointers: sIdx and eIdx, if sIdx < eIdx, it means no meeting has ended by the time this meeting is to start, we shoulde alllocated a new room. if sIdx > eIdx, it means a meeting has ended so that we can reuse one of the existing rooms.
 
-algorithms:
+#### algorithms:
 
 1. use two separate arrays to save the start times and end times individually.
 
