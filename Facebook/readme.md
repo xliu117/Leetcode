@@ -11,7 +11,7 @@
 
 5. [LC297. Serialize and Deserialize Binary Tree](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 
-6. LC253. Meeting Rooms II
+6. [LC253. Meeting Rooms II](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC253.%20Meeting%20Rooms%20II)
 
 7. [LC973. K Closest Points to Origin](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC973.%20K%20Closest%20Points%20to%20Origin)
 
