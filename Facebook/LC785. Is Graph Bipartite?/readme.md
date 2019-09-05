@@ -37,3 +37,39 @@ graph will have length in range [1, 100].
 graph[i] will contain integers in range [0, graph.length - 1].
 graph[i] will not contain i or duplicate values.
 The graph is undirected: if any element j is in graph[i], then i will be in graph[j].
+
+
+### Summary
+
+#### Idea
+
+This problem can be solved by BFS, use an array int[] named color to label the color of nodes in the graph. at first color all the node white, then color the first chosen node with red, check its neighbors, if it is white, color it blue, if its color is red, means the graph is not bipartite.
+
+#### algorithm:
+
+1. initialization: int[] color = new int[graph.length]; fill the color array with -1, representing white color.
+
+2. for each node in the graph
+       if color[node] == -1 //if the node color is white, push it the the stack
+          stack.push(node);
+          color[node] = 0; //0 representing red color.
+          
+3.        while(!stack.empty()){
+              Integer newnode = stack.pop();
+              for(int neighbor : graph[newnode]){
+                 if(color[neighbor] == -1)//if the neighbor color is white, push it to the stack, and color it using a diffrent color as its mother
+                    stack.push(neighbor);
+                    color[neighbor] = color[node] ^ 1; //a^1 means: if a == 0, a^1 == 1; if a == 1, a^1 ==0.
+                 else if(color[neighbor] == color[node]){
+                    return false;
+          
+4.   return true;
+
+
+#### complexity
+
+time: O(m+n), n is the number of nodes in the graph, m is the number of edges. we traverse each node once and traversing all its edges in the process.
+
+space: O(n), we use an array to store the color of all nodes.
+
+
