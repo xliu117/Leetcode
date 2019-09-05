@@ -59,8 +59,8 @@ This problem can be solved by BFS, use an array int[] named color to label the c
               for(int neighbor : graph[newnode]){
                  if(color[neighbor] == -1)//if the neighbor color is white, push it to the stack, and color it using a diffrent color as its mother
                     stack.push(neighbor);
-                    color[neighbor] = color[node] ^ 1; //a^1 means: if a == 0, a^1 == 1; if a == 1, a^1 ==0.
-                 else if(color[neighbor] == color[node]){
+                    color[neighbor] = color[newnode] ^ 1; //a^1 means: if a == 0, a^1 == 1; if a == 1, a^1 ==0.
+                 else if(color[neighbor] == color[newnode]){
                     return false;
           
 4.   return true;
