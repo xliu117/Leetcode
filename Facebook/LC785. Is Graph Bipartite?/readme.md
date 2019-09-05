@@ -43,7 +43,7 @@ The graph is undirected: if any element j is in graph[i], then i will be in grap
 
 #### Idea
 
-This problem can be solved by BFS, use an array int[] named color to label the color of nodes in the graph. at first color all the node white, then color the first chosen node with red, check its neighbors, if it is white, color it blue, if its color is red, means the graph is not bipartite.
+This problem can be solved by DFS, use an array int[] named color to label the color of nodes in the graph. at first color all the node white, then color the first chosen node with red, check its neighbors, if it is white, color it blue, if its color is red, means the graph is not bipartite.
 
 #### algorithm:
 
