@@ -73,7 +73,7 @@
 
 36. LC31. Next Permutation
 
-37. LC98. Validate Binary Search Tree
+37. [LC98. Validate Binary Search Tree](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC98.%20Validate%20Binary%20Search%20Tree)
 
 38. [LC199. Binary Tree Right Side View](https://github.com/xliu117/Leetcode/tree/master/Facebook/LC199.%20Binary%20Tree%20Right%20Side%20View)
 
