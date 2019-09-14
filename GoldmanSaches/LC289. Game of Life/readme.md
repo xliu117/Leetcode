@@ -65,7 +65,7 @@ Any dead cell with exactly three live neighbors becomes a live cell, as if by re
 
 right now, we have already find all the points next stage. only need to update.
 
-4. move the stage to the right board[i][j] >>= 1; to the final stage.
+4.Bitwise right shift. move the stage to the right board[i][j] >>= 1; to the final stage.
 
 5.build the private function : private int liveNeighbor(int[][] board, int i, int j) to count the live neighbors.
 
