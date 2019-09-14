@@ -37,6 +37,38 @@ In this question, we represent the board using a 2D array. In principle, the boa
 
 ### Summary
 
+#### idea:
+
+1. corner cases: if board == null || board.length == 0 return;
+
+2. for(int i = 0; i < rows; i++){
+       for(int j = 0; j < cols; j++){
+            int lives = liveNeighbor(board,i,j);
+            
+3.           consider the rules:
+Any live cell with fewer than two live neighbors dies, as if caused by under-population.
+Any live cell with two or three live neighbors lives on to the next generation.
+Any live cell with more than three live neighbors dies, as if by over-population..
+Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+
+3.1 .     if(lives >=2 && lives <=3 &&(board[i][j]&1) ==1)
+             //change the state of board[i][j] from 1 to 3, that is 01 -> 11. which means original state is live, till the end state is live also.
+             board[i][j] = 3;
+
+3.2 .     if(lives == 3 && (board[i][j] & 1) == 0)
+          // if it self is dead, but it has 3 live neighbors
+          //change state from 0 to 2, that is 00 -> 10
+          board[i][j] = 2;
+          
+3.3 do not need to consider other cases.
+// such as when itself is live, its liveneighbor < 2 or itself is live, its liveneighbor >3. then it will be dead. 01 -> 01 do not need update.
+
+right now, we have already find all the points next stage. only need to update.
+
+4. move the stage to the right board[i][j] >>= 1; to the final stage.
+
+5.build the private function : private int liveNeighbor(int[][] board, int i, int j) to count the live neighbors.
+
 #### Complexity:
 
 Time complexity is O(rows * cols), 总的 element 数目 
