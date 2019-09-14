@@ -33,3 +33,11 @@ Follow up:
 
 Could you solve it in-place? Remember that the board needs to be updated at the same time: You cannot update some cells first and then use their updated values to update other cells.
 In this question, we represent the board using a 2D array. In principle, the board is infinite, which would cause problems when the active area encroaches the border of the array. How would you address these problems?
+
+
+### Summary
+
+#### Complexity:
+
+Time complexity is O(rows * cols), 总的 element 数目 
+Space complexity is O(1), in-place. 只是操作本 board 而已.
