@@ -44,3 +44,4 @@ class Solution{
 
 //Analysis:
 //time complexity: O(n) both i and n traverse at most n steps. 
+//space complexity:O(1) in place
