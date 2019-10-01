@@ -1,6 +1,6 @@
 基础 |   Title  | Comments		 
 ---  | --- | ---
-27	|Remove Element	|
+27	|[Remove Element](https://leetcode.com/problems/remove-element/)	|
 26	|Remove Duplicates from Sorted Array	|
 80	|Remove Duplicates from Sorted Array II	|
 277	|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)	|
