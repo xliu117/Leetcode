@@ -1,6 +1,6 @@
 基础 |   Title  | Comments	|Solution	 
 ---  | --- | ---|---
-[27](https://github.com/xliu117/Leetcode/tree/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC27.%20Remove%20Element)	|[Remove Element](https://leetcode.com/problems/remove-element/)	| | [Java](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC27.%20Remove%20Element/solution.java)
+[27](https://github.com/xliu117/Leetcode/tree/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC27.%20Remove%20Element)	|[Remove Element](https://leetcode.com/problems/remove-element/)	| | [Java](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC27.%20Remove%20Element/solution.java)  [python](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC27.%20Remove%20Element/solution.py)
 26	|Remove Duplicates from Sorted Array	||
 80	|Remove Duplicates from Sorted Array II	||
 277	|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)	||
