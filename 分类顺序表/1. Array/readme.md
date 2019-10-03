@@ -6,7 +6,7 @@
 [277](https://github.com/xliu117/Leetcode/tree/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC277.%20Find%20the%20Celebrity)	|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)	|| [Java](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC277.%20Find%20the%20Celebrity/solution.java) / [Python](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC277.%20Find%20the%20Celebrity/solution.py)
 [189](https://github.com/xliu117/Leetcode/tree/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC189.%20Rotate%20Array)	|[Rotate Array](https://leetcode.com/problems/rotate-array/)	||[Java](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC189.%20Rotate%20Array/solution.java) / [Python](https://github.com/xliu117/Leetcode/blob/master/%E5%88%86%E7%B1%BB%E9%A1%BA%E5%BA%8F%E8%A1%A8/1.%20Array/LC189.%20Rotate%20Array/solution.py)
 41	|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)	||
-299	|Bulls and Cows	||
+299	|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)	||
 134	|[Gas Station](https://leetcode.com/problems/gas-station/)|	|
 118	|Pascal's Triangle|	很少考|
 119	|Pascal's Triangle II	|很少考|
